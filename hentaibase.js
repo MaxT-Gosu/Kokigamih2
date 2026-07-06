@@ -283,12 +283,12 @@ const baseDeDatos = [{
 {
     id: "H15",
     titulo: "Uba: Milk Honey",
-    poster: "https://iili.io/qTeWU3g.png",
+    poster: "https://i.ibb.co/Wvz233Wm/Uba-Milk-Money-625x1024.png",
     bg: [
-        "https://iili.io/qTeWNjV.jpg",
-        "https://iili.io/qTeWOZB.jpg",
-        "https://iili.io/qTeWwTQ.jpg",
-        "https://iili.io/qTeWhyx.jpg"
+        "https://i.ibb.co/GSpBvhV/2315.jpg",
+        "https://i.ibb.co/XZPXmhHh/preview.jpg",
+        "https://i.ibb.co/bjcgvnW1/uba-1-Jz-Dae.jpg",
+        "https://i.ibb.co/twTS74dK/uba-2-UDl-Zh.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/42be061fcc188ea53046707c2057a7d7006a8337adf85a3046bd30ed991c6b1f/ep1.mp4",
@@ -2292,12 +2292,12 @@ const baseDeDatos = [{
 {
     id: "H118",
     titulo: "Kakurenbo",
-    poster: "https://iili.io/qDn5hgf.jpg",
+    poster: "https://image.tmdb.org/t/p/original/4hHwtDHna4UIFsZqIgk98KZ1BsD.jpg",
     bg: [
-        "https://iili.io/K1kHPrG.png",
-        "https://iili.io/K1kHsb1.png",
-        "https://iili.io/K1kHtsa.png",
-        "https://iili.io/K1kHQzF.png",
+        "https://veohentai.com/wp-content/uploads/2025/09/114170h.png",
+        "https://iiii.eshentai.tv/cdn/s3/5d58fb4576dd679222d60168e155202e.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3kTruvMp3c1dDZGMks1O32yvvf4qLg9btDcLz4_Q5c7IOb6qCE5POC4xk&s=10",
+        "https://i1.wp.com/eroeronews.com/wp-content/uploads/2025/08/image-30.png",
         "https://iili.io/K1kHZWg.png"
     ],
     video: [
@@ -5252,12 +5252,12 @@ const baseDeDatos = [{
 {
     id: "H280",
     titulo: "Love x Holic Miwaku no Otome to Hakudaku Kankei",
-    poster: "https://iili.io/qCRHieR.png",
+    poster: "https://i.ibb.co/YBn22zcZ/love-x-holic-miwaku-no-otome-to-hakudaku-kankei-1-cv1.png",
     bg: [
-        "https://iili.io/qCRHQzN.png",
-        "https://iili.io/qCRHtst.png",
-        "https://iili.io/qCRHpgs.png",
-        "https://iili.io/qCRJ9dG.png"
+        "https://i.ibb.co/YHLfR2y/vlcsnap-2026-03-04-07h54m53s060.png",
+        "https://i.ibb.co/spskYG0n/vlcsnap-2026-03-04-07h55m09s093.png",
+        "https://i.ibb.co/7dStVLw2/vlcsnap-2026-03-04-07h55m31s260.png",
+        "https://i.ibb.co/DPHNLgbJ/vlcsnap-2026-03-04-07h55m43s889.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/e5d081f8f5b50654914c5bf776f7d8935315d43145bb7462088c0952a8cc8a05/ep1.mp4",
@@ -5272,12 +5272,12 @@ const baseDeDatos = [{
 {
     id: "H281",
     titulo: "Lover in Law",
-    poster: "https://iili.io/qn3cCb9.jpg",
+    poster: "https://www.themoviedb.org/t/p/w600_and_h900_face/7rKIOEtBNhEsq05Xt5ixsnYKeFS.jpg",
     bg: [
-        "https://iili.io/qn3cHVs.jpg",
-        "https://iili.io/qn3amNt.png",
-        "https://iili.io/qn3cJiG.png",
-        "https://iili.io/qn3cFUl.jpg"
+        "https://image.tmdb.org/t/p/original/OpUez0WLXwjiJBWBLN6MmSPCqo.jpg",
+        "https://image.tmdb.org/t/p/original/yvrzD4hvgA3odCQPuI2SCf7l1w3.jpg",
+        "https://image.tmdb.org/t/p/original/baGHxJ5FTqA8a1bwHhRJ58aYFa7.jpg",
+        "https://veohentai.com/wp-content/uploads/2022/08/lover-in-law-2.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/1e51b289259d7a0477853a3b915082e1356f2fab5bac64bee80d2e070d153143/ep1.mp4",
@@ -6000,12 +6000,12 @@ const baseDeDatos = [{
 {
     id: "H317",
     titulo: "Anata no Shiranai Kangofu",
-    poster: "https://iili.io/qttsqml.jpg",
+    poster: "https://cdn.anidb.net/images/main/280405.jpg",
     bg: [
-        "https://iili.io/qgq8EgI.png",
-        "https://iili.io/qgq8csR.png",
-        "https://iili.io/qgq8jzG.png",
-        "https://iili.io/qgq8Ns4.png"
+        "https://hanime-cdn.com/images/posters/anata-no-shiranai-kangofu-1-pv1.png",
+        "https://xanimeporn.com/wp-content/uploads/2015/01/thumb-anata1.jpg",
+        "https://watchhentai.net/uploads/2022/3/anata-no-shiranai-kangofu-seiteki-byoutou-24-ji/2.jpg",
+        "https://imggen.eporner.com/5756764/1280/720/8.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/5553376f40fc784ae25b90a41b7f50e314769a6057e0b7676d415bc0b24f0ec7/ep1.mp4",
@@ -6758,16 +6758,13 @@ const baseDeDatos = [{
 },
 {
     id: "H350",
-    titulo: "Shin Bible Black",
-    poster: "https://iili.io/Bs85494.jpg",
+    titulo: "Bible Black New Testament",
+    poster: "https://i.ibb.co/rGCyNnVD/bible-black-new-testament-1-1.jpg",
     bg: [
-        "https://iili.io/Bs85PN2.png",
-        "https://iili.io/Bs856Al.png",
-        "https://iili.io/Bs85itS.png",
-        "https://iili.io/Bs85QV9.png",
-		"https://iili.io/Bs85DKu.png",
-		"https://iili.io/Bs85bcb.png"
-
+        "https://i.ibb.co/n8z93DhX/vlcsnap-2026-04-30-19h03m17s321.png",
+        "https://i.ibb.co/RT2RYKSq/vlcsnap-2026-04-30-19h05m30s179.png",
+        "https://i.ibb.co/LqSfXqY/vlcsnap-2026-04-30-19h03m56s731.png",
+        "https://i.ibb.co/d4bg5HG3/vlcsnap-2026-04-30-19h03m35s982.png"
 
 		
 
@@ -7479,6 +7476,30 @@ const baseDeDatos = [{
     tags: ["Anal", "Escoalres", "Censurado"],
     tipo: "censurado",
     descripcion: "Kido Satoru, un detective mediático, acepta un caso de un anillo de rubí y se enfrenta a situaciones de deseo y vergüenza en una mansión."
+},
+{
+    id: "H381",
+    titulo: "Furachi",
+    poster: "https://media.themoviedb.org/t/p/w300_and_h450_face/rZmX8pzCk0TEorvnKowAxtsb6lH.jpg",
+    bg: [
+        "https://image.tmdb.org/t/p/original/4sCiJYX7oJQg8QvxOaVNFdqQR1T.jpg",
+        "https://image.tmdb.org/t/p/original/oW0XEM8XmvTfqEa9q83RYfjVbet.jpg",
+		"https://image.tmdb.org/t/p/original/t4AUumHTEIAHa5CRQfmf78Ur5SN.jpg",
+		"https://image.tmdb.org/t/p/original/ki1O45q1rl6AAv6Y5OQuN29Oj8U.jpg"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Furachi/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Furachi/ep2.mp4"
+
+
+		
+    ],
+    estudio: "T-Rex",
+    fecha: "2026",
+    tags: ["Anal", "Oral", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Kai, un joven reservado, observa a su vecina Ikenaga mientras se desnuda. Una mañana, un encuentro casual transforma su voyeurismo en una intensa y apasionada relación, llevando a Kai a reflexionar sobre su brillante metamorfosis."
 },
 ];
 
