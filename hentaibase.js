@@ -5815,12 +5815,12 @@ const baseDeDatos = [{
 {
     id: "H308",
     titulo: "Natsu Yasumi",
-    poster: "https://iili.io/qXBFPrx.jpg",
+    poster: "https://i.ibb.co/wh0s272y/60082.jpg",
     bg: [
-        "https://iili.io/qWoLpGj.png",
-        "https://iili.io/qWoQH3Q.png",
-        "https://iili.io/qWoQn6v.png",
-        "https://iili.io/qWoQAut.png"
+        "https://i.ibb.co/XfcjrNMK/vlcsnap-2026-03-17-08h19m35s990.png",
+        "https://i.ibb.co/Q3FLmtdF/vlcsnap-2026-03-17-08h19m59s615.png",
+        "https://i.ibb.co/x88DfP44/vlcsnap-2026-03-17-08h20m25s809.png",
+        "https://i.ibb.co/rVDmVKs/vlcsnap-2026-03-17-08h21m30s599.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/12526fdf0f4c8eab2f434c6e5da09786d755d51710c470ab2e804ca1757da8c8/ep1.mp4",
@@ -5836,12 +5836,12 @@ const baseDeDatos = [{
 {
     id: "H309",
     titulo: "Kurutta Kyoutou Danzai no Gakuen",
-    poster: "https://iili.io/qXzm55N.jpg",
+    poster: "https://i.ibb.co/cc0vb2Tc/kurutta-kyoutou-danzai-no-gakuen-1-1.png",
     bg: [
-        "https://iili.io/qWzMGSV.png",
-        "https://iili.io/qWzMhDF.png",
-        "https://iili.io/qWzMXN1.png",
-        "https://iili.io/qWzMOiJ.png"
+        "https://i.ibb.co/fzt1D2Vm/vlcsnap-2026-03-17-08h34m53s457.png",
+        "https://i.ibb.co/zhJNvJp9/vlcsnap-2026-03-17-08h35m11s094.png",
+        "https://i.ibb.co/TD58qkdD/vlcsnap-2026-03-17-08h36m24s900.png",
+        "https://i.ibb.co/C54pcX8v/vlcsnap-2026-03-17-08h36m38s349.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/dc8564a89b7fde4bb2245b7affd4fceca3c369e83161c4a1e502d8bb1af29543/ep1.mp4"
@@ -5855,12 +5855,12 @@ const baseDeDatos = [{
 {
     id: "H310",
     titulo: "Ijou Chitai Jikken Dorei",
-    poster: "https://iili.io/qiewbne.jpg",
+    poster: "https://i.ibb.co/5WScghd0/ijou-chitai-jikken-dorei-1-1.jpg",
     bg: [
-        "https://iili.io/qWcMxxj.png",
-        "https://iili.io/qWcMzWx.png",
-        "https://iili.io/qWcMcba.png",
-        "https://iili.io/qWcMWgI.png"
+        "https://i.ibb.co/Xr1yJr3L/vlcsnap-2026-03-17-10h13m26s787.png",
+        "https://i.ibb.co/twD2QmdD/vlcsnap-2026-03-17-10h13m51s877.png",
+        "https://i.ibb.co/pjdj9Kx3/vlcsnap-2026-03-17-10h15m04s321.png",
+        "https://i.ibb.co/bMLqbT9v/vlcsnap-2026-03-17-10h15m34s856.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/1314fa8aadb45ae633d969fe6b1a13ac0f804bc043e678a3f3bd4cf70fe6ea6d/ep1.mp4",
@@ -5875,12 +5875,12 @@ const baseDeDatos = [{
 {
     id: "H311",
     titulo: "Pisu Hame",
-    poster: "https://iili.io/qsWHj0F.jpg",
+    poster: "https://i.ibb.co/Nd6LwJfK/pisu-hame-6-vc-JMrp-FHZO.jpg",
     bg: [
-        "https://iili.io/qWtxwv4.png",
-        "https://iili.io/qWtxeu2.png",
-        "https://iili.io/qWtxQwB.png",
-        "https://iili.io/qWtzH8v.png"
+        "https://i.ibb.co/vCrTMHhd/vlcsnap-2026-03-17-15h05m00s192.png",
+        "https://i.ibb.co/Fk1wcT5X/vlcsnap-2026-03-17-15h06m56s638.png",
+        "https://i.ibb.co/ynjHKW9L/vlcsnap-2026-03-17-15h09m30s073.png",
+        "https://i.ibb.co/s93gWmvS/vlcsnap-2026-03-17-15h10m26s805.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/01cb24f5fb84c30670fdfa4e201626ed0f6429d24d872ff0a56efa674ed1c06b/ep1.mp4",
