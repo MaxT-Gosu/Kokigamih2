@@ -5736,12 +5736,12 @@ const baseDeDatos = [{
 {
     id: "H304",
     titulo: "Nymph of stratosphere",
-    poster: "https://iili.io/qWcMqJ9.jpg",
+    poster: "https://i.ibb.co/whDZ855h/stratosphera-no-yousei-2-cv1.png",
     bg: [
-        "https://iili.io/qlrBbWv.png",
-        "https://iili.io/qlrCHgI.png",
-        "https://iili.io/qlrC25X.png",
-        "https://iili.io/qlrCBs4.png"
+        "https://i.ibb.co/39mHqGj9/vlcsnap-2026-03-13-18h05m51s633.png",
+        "https://i.ibb.co/Bp6nmnp/vlcsnap-2026-03-13-18h07m23s745.png",
+        "https://i.ibb.co/sJyjVHYw/vlcsnap-2026-03-13-18h09m22s574.png",
+        "https://i.ibb.co/HJmPrSZ/vlcsnap-2026-03-13-18h11m11s310.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/a1cee393782b0bffba80f48ac360a57e418aed23b2d2b377ca6901bce2bb9107/Ep1(1).mp4",
@@ -5757,12 +5757,12 @@ const baseDeDatos = [{
 {
     id: "H305",
     titulo: "Shin Ban Megami Tantei Vinus File",
-    poster: "https://iili.io/qWtxW4s.jpg",
+    poster: "https://i.ibb.co/cKcw8zDf/884.jpg",
     bg: [
-        "https://iili.io/qEEucgI.png",
-        "https://iili.io/qEEuWXf.png",
-        "https://iili.io/qEEuw12.png",
-        "https://iili.io/qEEuUzb.png"
+        "https://i.ibb.co/sd8TYPLF/vlcsnap-2026-03-15-08h46m16s971.png",
+        "https://i.ibb.co/G3dj1Y3z/vlcsnap-2026-03-15-08h46m26s624.png",
+        "https://i.ibb.co/4Zb1wHQN/vlcsnap-2026-03-15-08h46m41s636.png",
+        "https://i.ibb.co/Cp5RcvNH/vlcsnap-2026-03-15-08h46m50s601.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/f47b435ab891b1531331e33ba476972fb05ec612b31dbb95ce36ebee7135fcb3/ep1.mp4",
@@ -5777,12 +5777,12 @@ const baseDeDatos = [{
 {
     id: "H306",
     titulo: "Tsuma ga Onsen de Circle Nakama no Nikubenki ni natta no desuga",
-    poster: "https://iili.io/qXHfbkJ.jpg",
+    poster: "https://i.ibb.co/Y71BtCwN/tsuma-ga-onsen-1-cover.jpg",
     bg: [
-        "https://iili.io/qVTw2gS.png",
-        "https://iili.io/qVTwJql.png",
-        "https://iili.io/qVTwd12.png",
-        "https://iili.io/qVTwFd7.png"
+        "https://i.ibb.co/QFKqTyN8/vlcsnap-2026-03-16-20h34m43s768.png",
+        "https://i.ibb.co/LdR9Swvz/vlcsnap-2026-03-16-20h34m47s419.png",
+        "https://i.ibb.co/MHMkh1N/vlcsnap-2026-03-16-20h34m20s744.png",
+        "https://i.ibb.co/qLnJd9Sv/vlcsnap-2026-03-16-20h35m22s562.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/3c3d8586e8d86f164d15f17ba16403d05d91f96db104cce52f950ff28aec8f47/ep1.mp4"
@@ -5796,12 +5796,12 @@ const baseDeDatos = [{
 {
     id: "H307",
     titulo: "Mou Ichido, Shite Mitai",
-    poster: "https://iili.io/qX3TMIS.jpg",
+    poster: "https://i.ibb.co/vC3TsBGp/Mou-Ichido-Shite-Mitai-Episode-1.jpg",
     bg: [
-        "https://iili.io/qVueixe.png",
-        "https://iili.io/qVuesWu.png",
-        "https://iili.io/qVueLib.png",
-        "https://iili.io/qVueZfj.png"
+        "https://i.ibb.co/b5JvWbQf/vlcsnap-2026-03-16-21h02m47s311.png",
+        "https://i.ibb.co/RGK8dzfG/vlcsnap-2026-03-16-21h02m59s250.png",
+        "https://i.ibb.co/s9b3ypNq/vlcsnap-2026-03-16-21h03m10s880.png",
+        "https://i.ibb.co/sJC9h0FS/vlcsnap-2026-03-16-21h03m27s721.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/be575f083a273fcb9837ad2e525d806a1f1d9b5f9a9e5b91469ffd651004a855/ep1.mp4"
@@ -7524,6 +7524,31 @@ const baseDeDatos = [{
     tags: ["Anal", "Oral", "Sin Censurado"],
     tipo: "sincensurado",
     descripcion: "Miyagawa Yuki y sus colegas son atrapadas espiando una farmacéutica sospechosa de producir drogas ilegales bajo engaño."
+},
+{
+    id: "H383",
+    titulo: "Shin Saishuu Chikan Densha",
+    poster: "https://i.ibb.co/LDzfVLyz/midnight-sleazy-train-2-ep-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/CKYTQmKp/vlcsnap-2026-07-07-16h32m29s141.png",
+        "https://i.ibb.co/3mrfLL1L/vlcsnap-2026-07-07-16h32m33s865.png",
+		"https://i.ibb.co/wZhZbx3L/vlcsnap-2026-07-07-16h33m30s561.png",
+		"https://i.ibb.co/hJjJ641K/vlcsnap-2026-07-07-16h35m39s259.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Shin%20Saishuu%20Chikan%20Densha/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Shin%20Saishuu%20Chikan%20Densha/ep2.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Shin%20Saishuu%20Chikan%20Densha/ep3.mp4"
+
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Orgias", "Sin Censurado"],
+    tipo: "sincensurado",
+    descripcion: "En Takumi, la leyenda del Tren de la Suerte de Medianoche requiere una invitada perfecta para obtener un billete y abordar a deshora."
 },
 ];
 
