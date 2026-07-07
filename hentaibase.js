@@ -7501,5 +7501,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Kai, un joven reservado, observa a su vecina Ikenaga mientras se desnuda. Una mañana, un encuentro casual transforma su voyeurismo en una intensa y apasionada relación, llevando a Kai a reflexionar sobre su brillante metamorfosis."
 },
+{
+    id: "H382",
+    titulo: "Kangoku - Injoku no jikkentou",
+    poster: "https://i.ibb.co/RTwf3fHv/project-boobs-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/7tVTvNkw/vlcsnap-2026-07-07-12h34m18s663.png",
+        "https://i.ibb.co/svgL51fn/vlcsnap-2026-07-07-12h34m49s535.png",
+		"https://i.ibb.co/tpKvphX6/vlcsnap-2026-07-07-12h54m25s213.png",
+		"https://i.ibb.co/NhHyNm5/vlcsnap-2026-07-07-12h55m09s866.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Kangoku%20-%20Injoku%20no%20jikkentou/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Kangoku%20-%20Injoku%20no%20jikkentou/ep2.mp4"
+
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Oral", "Sin Censurado"],
+    tipo: "sincensurado",
+    descripcion: "Miyagawa Yuki y sus colegas son atrapadas espiando una farmacéutica sospechosa de producir drogas ilegales bajo engaño."
+},
 ];
 
