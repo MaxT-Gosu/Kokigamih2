@@ -1923,13 +1923,11 @@ const baseDeDatos = [{
 {
     id: "H101",
     titulo: "Kuro Gal a La Carte",
-    poster: "https://iili.io/q6l9Usj.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/07/Kuro-Gal-a-La-Carte-Episode-1.jpg",
     bg: [
-        "https://iili.io/FLLxpzG.png",
-        "https://iili.io/FLLoDib.jpg",
-        "https://iili.io/FLLomfj.png",
-        "https://iili.io/FLLop0x.png",
-        "https://iili.io/FLLxHJV.png"
+        "https://veohentai.com/wp-content/uploads/2025/08/123Gh1315.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/07/109863h.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/00027ffd01d13975f2712d827b7de1258b99cbeb020ccfd3c0173f7e0b8e8166/ep1.mp4",
@@ -1944,13 +1942,14 @@ const baseDeDatos = [{
 {
     id: "H102",
     titulo: "Immoral Game Master",
-    poster: "https://iili.io/q6sDqhv.jpg",
+    poster: "https://i.ibb.co/JWMSp7B5/image-37.png",
     bg: [
-        "https://iili.io/FZskvjV.png",
-        "https://iili.io/FZskA1S.jpg",
-        "https://iili.io/FZsk729.png",
-        "https://iili.io/FZskcmb.png",
-        "https://iili.io/FZsk0Ij.png"
+        "https://i.ibb.co/9mzYGPjc/image-27.png",
+        "https://i.ibb.co/gZn02nYn/image-28.png",
+        "https://i.ibb.co/L7KB7q1/image-30.png",
+        "https://i.ibb.co/xqJMkpdz/image-32.png"
+		
+		
     ],
     video: [
         "https://www.yourupload.com/embed/NGV1m8qwkSi0",
@@ -1965,13 +1964,12 @@ const baseDeDatos = [{
 {
     id: "H103",
     titulo: "Shinsei Kourin Dacryon Luna",
-    poster: "https://iili.io/qi5PqRR.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/01/Shinsei-Kourin-Dacryon-Luna-Episode-1.jpg",
     bg: [
-        "https://iili.io/FmCGXnS.png",
-        "https://iili.io/FmCGZZv.png",
-        "https://iili.io/FmCGDnR.png",
-        "https://iili.io/FmCGbGp.png",
-        "https://iili.io/FmCGQwJ.png"
+        "https://veohentai.com/wp-content/uploads/2025/01/99694h.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/08/109888h.jpg"
+		
+		
     ],
     video: [
         "https://www.yourupload.com/embed/RF7nj6AB54Iv",
@@ -1986,13 +1984,13 @@ const baseDeDatos = [{
 {
     id: "H104",
     titulo: "Shigokare Ecchi na Joshi Daisei",
-    poster: "https://iili.io/qxYz3dv.jpg",
+    poster: "https://image.tmdb.org/t/p/original/2CEgSZ8Ds77YCcY02WxbD4VAzt2.jpg",
     bg: [
-        "https://iili.io/FyQbM7V.png",
-        "https://iili.io/FyQbFfI.png",
-        "https://iili.io/FyQbKlt.png",
-        "https://iili.io/FyQbfUX.png",
-        "https://iili.io/FyQbBJn.png"
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/mwftK1LosupUjXX7m8IIRMFT0Xq.jpg",
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/zEo9V0ZDu4YvLwplkEN6mCHkdnG.jpg",
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/bfxo03aAwWAkVWxM1wOYPYLrYXN.jpg"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/05a1031ba34f7109db11dc9ab75fab96c05908c9b7810078c0e0ec4ece5c3863/ep1.mp4"
@@ -2008,10 +2006,11 @@ const baseDeDatos = [{
     titulo: "Soikano Gyutto Dakishimete",
     poster: "https://veohentai.com/wp-content/uploads/2022/08/soikano-gyutto-dakishimete-1-1.png",
     bg: [
-        "https://iili.io/KH0Bnkb.png",
-        "https://iili.io/KH0BCYu.png",
-        "https://iili.io/KH0BB2e.png",
-        "https://iili.io/KH0Bopj.png"
+        "https://iiii.eshentai.tv/cdn/s3/4d3b8b1c294929d01ce868cada5b395f.png",
+        "https://erotic-hentai.com/wp-content/uploads/2022/05/Soikano-Gyutto-Dakishimete-The-Animation-Episode-1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPUOx5X6Xd0ouqu4w-czSBtysBJ8VsvMbK_Wg71J6e0ceHW91x1JbujUh&s=10"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/e560ea0b0b234cdbfa1689ffc773248e9a558d0af491045ec330971fcf0e77de/ep1.mp4"
@@ -2025,12 +2024,12 @@ const baseDeDatos = [{
 {
     id: "H106",
     titulo: "Soukou Seiki Ysphere",
-    poster: "https://iili.io/KFkV0Xp.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/soukou-seiki-ysphere-ingyaku-no-sennou-kaizou-1-cv1.png",
     bg: [
-        "https://iili.io/KFkVGwX.png",
-        "https://iili.io/KFkVMtn.png",
-        "https://iili.io/KFkVXMG.png",
-        "https://iili.io/KFkVwF4.png"
+        "https://xanimeporn.com/wp-content/uploads/2020/07/Soukou-Seiki-Ysphere-Ingyaku-No-Sennou-Kaizou-1.jpg",
+        "https://xanimeporn.com/wp-content/uploads/2021/02/Soukou-Seiki-Ysphere-Ingyaku-no-Sennou-Kaizou-2.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3CJF-pAeAVkXo186I53I6A4_5KPxIdeOD-WGikNbtl4BtaBnrFMRL9pH&s=10",
+        "https://veohentai.com/wp-content/uploads/2022/08/soukou-seiki-ysphere-ingyaku-no-sennou-kaizou-2-pv1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/ad22dcc62a0bbf875c0bec8177ef341b722351a792c581f2f6af16dfc50eb811/ep1.mp4",
@@ -2045,12 +2044,12 @@ const baseDeDatos = [{
 {
     id: "H107",
     titulo: "Saimin Sheishidou",
-    poster: "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-6-cv1.png",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-1-1.png",
     bg: [
-        "https://iili.io/KKarfEb.jpg",
-        "https://iili.io/KKarKCu.webp",
-        "https://iili.io/KKar3Qe.jpg",
-        "https://iili.io/KKarovV.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-6-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-5-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-4-pv1.png",
+        "https://veohentai.com/wp-content/uploads/2022/08/saimin-seishidou-1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/e2557e85716756596bbcce80baa535e9d9afcde72cd066eca7169a96da0b136d/ep1.mp4",
@@ -2059,6 +2058,8 @@ const baseDeDatos = [{
         "https://www.burstcloud.co/embed/97ddda4ca74a25e213e325939c78457a1a5b5faaf0d44082962c533217a11e36/ep4.mp4",
         "https://www.burstcloud.co/embed/44e8e0985f9a7002de3d1f890f39cd2f33703fa0f5c74972503a839d0a683391/ep5.mp4",
         "https://www.burstcloud.co/embed/eea88cf6755241b07bb3ae5cd67f0a5af100a2e9d39f5ab8eb42b923a9e27d03/ep6.mp4"
+		
+		
     ],
     estudio: "Desconocido",
     fecha: "2026",
@@ -2071,10 +2072,10 @@ const baseDeDatos = [{
     titulo: "Seika Jogakuin Koutoubu Kounin Sao Oji-San",
     poster: "https://veohentai.com/wp-content/uploads/2024/10/Seika-Jogakuin-Koutoubu-Kounin-Sao-Oji-San-Episode-6.jpg",
     bg: [
-        "https://iili.io/KfqlMfS.png",
-        "https://iili.io/Kfql1Wl.png",
-        "https://iili.io/KfqlWg9.png",
-        "https://iili.io/KfqlEs2.png"
+        "https://i.ibb.co/gb420C3L/Seika-Jogakuin-Koutoubu-Kounin-Sao-Oji-San-1.png",
+        "https://i.ibb.co/TxXQVhnh/Seika-Jogakuin-Koutoubu-Kounin-Sao-Oji-San-22.png",
+        "https://i.ibb.co/hRDyt3dN/Seika-Jogakuin-Koutoubu-Kounin-Sao-Oji-San-25.png",
+        "https://i.ibb.co/4wvVR12Q/Seika-Jogakuin-Koutoubu-Kounin-Sao-Oji-San-26.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/8a69db8130ff69d2ceed40eabd159d9ca951f87194678179bf349a5982a6185a/ep1.mp4",
