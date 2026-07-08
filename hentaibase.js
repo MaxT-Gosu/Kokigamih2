@@ -2094,12 +2094,12 @@ const baseDeDatos = [{
 {
     id: "H109",
     titulo: "Sakusei Byoutou",
-    poster: "https://veohentai.com/wp-content/uploads/2023/04/Sakusei-Byoutou-The-Animation-Episode-5.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2024/01/Sakusei-Byoutou-The-Animation-Episodio-7.jpg",
     bg: [
-        "https://iili.io/KqmLSTl.jpg",
-        "https://iili.io/KqmLUj2.jpg",
-        "https://iili.io/KqmL6G9.jpg",
-        "https://iili.io/KfqlEs2.png"
+        "https://i.ibb.co/GwN0jk4/Sakusei-Byoutou-2.png",
+        "https://i.ibb.co/gbCNwwvB/Sakusei-Byoutou-4.jpg",
+        "https://i.ibb.co/RpSwg1dB/Sakusei-Byoutou-9.png",
+        "https://i.ibb.co/CKFkN8S3/Sakusei-Byoutou-2.jpg"
     ],
     video: [
         "https://www.burstcloud.co/embed/645e498f1c56d9b4ed6379066e6f10fa969c07ef23abaccc383575844dff4208/ep1.mp4",
@@ -2122,13 +2122,12 @@ const baseDeDatos = [{
 {
     id: "H110",
     titulo: "Mujin Eki",
-    poster: "https://iili.io/qiewbne.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2025/09/Mujin-Eki-The-Animation-Episode-1.jpg",
     bg: [
-        "https://iili.io/KCNsh5P.png",
-        "https://iili.io/KCNsam7.jpg",
-        "https://iili.io/KCNsYeS.jpg",
-        "https://iili.io/KCNs772.jpg",
-        "https://iili.io/KCNs5dl.jpg"
+        "https://veohentai.com/wp-content/uploads/2025/09/c1334608sample5.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/09/c1334607sample5.jpg"
+		
+		
     ],
     video: [
         "https://hentaiplayer.com/v/2rvV64qWGQkDZMb/",
@@ -2143,13 +2142,14 @@ const baseDeDatos = [{
 {
     id: "H111",
     titulo: "Koushoku no Chuugi Kunoichi Botan",
-    poster: "https://iili.io/qsWHj0F.jpg",
+    poster: "https://i.ibb.co/20r2qHKv/Koushoku-no-Chuugi-Kunoichi-1.jpg",
     bg: [
-        "https://iili.io/fTMjv9p.png",
-        "https://iili.io/fTMj5dP.png",
-        "https://iili.io/fTMj771.png",
-        "https://iili.io/fTMjozb.png",
-        "https://iili.io/fTMjamg.png"
+        "https://i.ibb.co/g1VT8Fw/Koushoku-no-Chuugi-Kunoichi-3.png",
+        "https://i.ibb.co/pjvmgtBT/Koushoku-no-Chuugi-Kunoichi-6.png",
+        "https://i.ibb.co/tP3ZwFKV/Koushoku-no-Chuugi-Kunoichi-8.png",
+        "https://i.ibb.co/4wzhcMmm/Koushoku-no-Chuugi-Kunoichi-Botan-4.png"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/37a1cd5d861ed9c090973fe2580b6be9d1e9ec8f45e4d98e4a049d6108528958/ep1.mp4",
