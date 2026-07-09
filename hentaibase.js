@@ -2164,13 +2164,11 @@ const baseDeDatos = [{
 {
     id: "H112",
     titulo: "Shachiku Cinderella",
-    poster: "https://iili.io/qQ2bWcg.jpg",
+    poster: "https://image.tmdb.org/t/p/w600_and_h900_face/6KfUbhhaGzrjYQOpk6PSRWYFpPf.jpg",
     bg: [
-        "https://iili.io/Ko8Y9PV.png",
-        "https://iili.io/Ko8YJNp.png",
-        "https://iili.io/Ko8YHRR.png",
-        "https://iili.io/Ko8Y3xI.png",
-        "https://iili.io/Ko8YBls.png"
+        "https://veohentai.com/wp-content/uploads/2025/09/c1334614sample10.jpg",
+        "https://veohentai.com/wp-content/uploads/2025/11/115144h.jpg"
+		
     ],
     video: [
         "https://hentaiplayer.com/v/FIuDgKh0wP0NEa9/",
@@ -2185,13 +2183,13 @@ const baseDeDatos = [{
 {
     id: "H113",
     titulo: "Pure Pure Pero Pero Princess",
-    poster: "https://iili.io/qQn1ITv.jpg",
+    poster: "https://image.tmdb.org/t/p/original/sN3xbmoOCuzqAoWwkvkyVLkeRAq.jpg",
     bg: [
-        "https://iili.io/KIea2F2.png",
-        "https://iili.io/KIea36G.png",
-        "https://iili.io/KIeaq8l.png",
-        "https://iili.io/KIeaIne.png",
-        "https://iili.io/KIeaxt9.png"
+        "https://i.ibb.co/LzpM5Z3B/Pure-Pure-Pero-Pero-Princess-1.png",
+        "https://i.ibb.co/C3206yRT/Pure-Pure-Pero-Pero-Princess-3.png",
+        "https://i.ibb.co/gLbgJN10/Pure-Pure-Pero-Pero-Princess-5.png",
+        "https://i.ibb.co/p6V8gKs0/Pure-Pure-Pero-Pero-Princess-8.png"
+		
     ],
     video: [
         "https://hentaiplayer.com/v/emoA7VnnJhCFn9m/",
@@ -2206,13 +2204,11 @@ const baseDeDatos = [{
 {
     id: "H114",
     titulo: "Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai!",
-    poster: "https://iili.io/qQz5oGt.jpg",
+    poster: "https://www.themoviedb.org/t/p/w600_and_h900_face/ipqu76qqHiVB2vlK2gGZNwF9SwX.jpg",
     bg: [
-        "https://iili.io/KANXhEg.png",
-        "https://iili.io/KANX9i7.jpg",
-        "https://iili.io/KANXJf9.png",
-        "https://iili.io/KANWyVS.jpg",
-        "https://iili.io/KANXKRj.jpg"
+        "https://image.tmdb.org/t/p/original/9FEXhTENjLPgmv7ElYGMnTUKxdu.jpg",
+        "https://image.tmdb.org/t/p/original/akW2Vt85HZ6qtUjDt1JTtQqB3Jm.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/34a4dfa57453636cbc11dd301f8de177685d55e27767c22d122a7f9ad19de051/ep1.mp4",
@@ -2233,13 +2229,11 @@ const baseDeDatos = [{
 {
     id: "H115",
     titulo: "Seiso de Majime na Kanojo ga",
-    poster: "https://iili.io/qQur8TF.jpg",
+    poster: "https://image.tmdb.org/t/p/w600_and_h900_face/wF57Jix0AimD7qS2Reb4vPnIupq.jpg",
     bg: [
-        "https://iili.io/KY7GNnS.png",
-        "https://iili.io/KY7GcKB.png",
-        "https://iili.io/KY7G0S1.png",
-        "https://iili.io/KY7GhVR.png",
-        "https://iili.io/KY7GOlI.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/seiso-de-majime-na-kanojo-ga-saikyou-yaricir-ni-kanyuu-saretara-1-ehkHvPXYAN.jpg",
+        "https://hentai-moon.com/contents/videos_screenshots/2000/2825/preview.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/ddff58d6fafd3520262f4e18b9f2ca26bbe1e821ef3f0a8cc4147590a48a8dd0/EP1.mp4"
@@ -2253,13 +2247,11 @@ const baseDeDatos = [{
 {
     id: "H116",
     titulo: "Seito Kaichou Hikaru",
-    poster: "https://iili.io/qQy1hkQ.jpg",
+    poster: "https://image.tmdb.org/t/p/w600_and_h900_face/eJTaPHhFTvYYEQDPsfqlOUPAqet.jpg",
     bg: [
-        "https://iili.io/Ka2A6S1.png",
-        "https://iili.io/Ka2A119.jpg",
-        "https://iili.io/Ka2A0q7.jpg",
-        "https://iili.io/Ka2AcsS.jpg",
-        "https://iili.io/Ka2AaX2.jpg"
+        "https://veohentai.com/wp-content/uploads/2022/08/seito-kaichou-hikaru.jpg",
+        "https://media.themoviedb.org/t/p/w500_and_h282_face/mDdoR1JD6Og2YkjZwnUM6SM8MIG.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/185cefd061d9db8c6d98a8e848a1cc8baf3173fe1e8d738fc0c8e5a44deeb012/ep1.mp4"
@@ -2273,13 +2265,13 @@ const baseDeDatos = [{
 {
     id: "H117",
     titulo: "Sex Friend Osananajimi Shojo to Doutei wa Hazukashii tte Minna ga Iu kara",
-    poster: "https://iili.io/qttsqml.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/sex-friend-osananajimi-shojo-to-doutei-wa-hazukashii-tte-minna-ga-iu-kara-1-cv1.png",
     bg: [
-        "https://iili.io/Kl7vW14.png",
-        "https://iili.io/Kl7vOiX.jpg",
-        "https://iili.io/Kl7vkfn.png",
-        "https://iili.io/Kl7vwxI.webp",
-        "https://iili.io/Kl7vvls.webp"
+        "https://veohentai.com/wp-content/uploads/2022/08/sex-friend-osananajimi-shojo-to-doutei-wa-hazukashii-tte-minna-ga-iu-kara-1-pv1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHrljBuwmaozSJUdveByOZD2NGD5RWWsuiK9ciVD-uANyqFfFmJEMOkc&s=10",
+        "https://veohentai.com/wp-content/uploads/2023/04/c1211396sample7.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVJUN89XngLw6YfoZ56AVU5qYJAI_SuU_AQDld5X6p6O1pYQecADEnQ&s=10"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/89a29d79d647dab4d14c0648248449a8eff2508c3b79287f58ea9b21c7d09c24/ep1.mp4"
@@ -2313,13 +2305,13 @@ const baseDeDatos = [{
 {
     id: "H119",
     titulo: "Shiawase nara Niku wo Morou",
-    poster: "https://iili.io/qDkSHsS.jpg",
+    poster: "https://image.tmdb.org/t/p/w600_and_h900_face/yI5Ji6MIIsOc7bKrVdGYimZVA8s.jpg",
     bg: [
-        "https://iili.io/KMfvU0B.png",
-        "https://iili.io/KMfvDDx.jpg",
-        "https://iili.io/KMfvQHu.jpg",
-        "https://iili.io/KMfvZAb.png",
-        "https://iili.io/KMfvsSe.webp"
+        "https://image.tmdb.org/t/p/original/8zf9HMas3xB4jjLOEijSQkdBol5.jpg",
+        "https://image.tmdb.org/t/p/original/plsdRZbHvxzGLhStoyhPPWp7ewP.jpg",
+        "https://image.tmdb.org/t/p/original/sAKly2voGjHJJ17zm7qepQh9GFB.jpg",
+        "https://image.tmdb.org/t/p/original/nBHd0whAwdEy5eljgeiChE7MW0H.jpg"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/dc43a9d83d7c5d27c14a4ffe78eed28297cb661cfd5dd67bcac6de5704b46ddd/ep1.mp4"
@@ -7012,14 +7004,15 @@ const baseDeDatos = [{
     titulo: "Love wa Gal kara Hajimaru Unmei",
     poster: "https://i.ibb.co/twYfGKvX/Love-wa-Gal-kara-Hajimaru-Unmei-Episode-1.jpg",
     bg: [
-        "https://i.ibb.co/JWkH0P6d/vlcsnap-2026-05-14-10h22m15s334.png",
+        "https://i.ibb.co/pr0rzfJR/vlcsnap-2026-07-09-12h14m52s368.png",
         "https://i.ibb.co/NnKpTvWM/vlcsnap-2026-05-14-10h22m26s989.png",
         "https://i.ibb.co/399Q9J4V/vlcsnap-2026-05-14-10h22m39s084.png",
         "https://i.ibb.co/Zj6HXF5/vlcsnap-2026-05-14-10h22m53s276.png"
 		
     ],
     video: [
-        "https://www.burstcloud.co/embed/8a76b4affd097351a513046e872b314c14c009e3f2df20b21b1905cb8e4322c2/ep1.mp4",
+        "https://appcine.b-cdn.net/kokigamih/Love%20wa%20Gal%20kara%20Hajimaru%20Unmei/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Love%20wa%20Gal%20kara%20Hajimaru%20Unmei/ep2.mp4"
 
 
     ],
@@ -7564,8 +7557,6 @@ const baseDeDatos = [{
     ],
     video: [
         "https://appcine.b-cdn.net/kokigamih/Nuki%20Nuki%20Zupposism/ep1.mp4",
-
-
 
 		
     ],
