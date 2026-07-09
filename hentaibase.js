@@ -7566,5 +7566,49 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "En el primer episodio de Nuki Nuki Zupposism, un joven explora el Zupposism, viviendo intensas escapadas sexuales con voluptuosas mujeres, llevando a desbordantes travesuras de harén."
 },
+{
+    id: "H385",
+    titulo: "Love is the Number of Keys",
+    poster: "https://i.ibb.co/b5ZNXmRs/love-is-the-number-of-keys-VQVQK.jpg",
+    bg: [
+        "https://i.ibb.co/LXzYmLMX/vlcsnap-2026-07-09-14h15m23s228.png",
+        "https://i.ibb.co/gL9GLSXV/vlcsnap-2026-07-09-14h15m42s019.png",
+		"https://i.ibb.co/ZpZTP9jm/vlcsnap-2026-07-09-14h16m08s659.png",
+		"https://i.ibb.co/XksS287x/vlcsnap-2026-07-09-14h16m35s534.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Love%20is%20the%20Number%20of%20Keys/ep1.mp4",
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2010",
+    tags: ["Vanilla", "Enfermeras", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "En el primer episodio de Nuki Nuki Zupposism, un joven explora el Zupposism, viviendo intensas escapadas sexuales con voluptuosas mujeres, llevando a desbordantes travesuras de harén."
+},
+{
+    id: "H386",
+    titulo: "Cheat Item Kanrikyoku no Oshigoto EX",
+    poster: "https://i.ibb.co/5XMXhhSB/Cheat-Item-Kanrikyoku-no-Oshigoto-EX.jpg",
+    bg: [
+        "https://i.ibb.co/rGTV76Mr/vlcsnap-2026-07-09-14h27m51s428.png",
+        "https://i.ibb.co/6cfTs8Lf/vlcsnap-2026-07-09-14h28m09s625.png",
+		"https://i.ibb.co/WN9Y4sXw/vlcsnap-2026-07-09-14h28m32s426.png",
+		"https://i.ibb.co/LdJDtsL0/vlcsnap-2026-07-09-14h28m45s786.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Cheat%20Item%20Kanrikyoku%20no%20Oshigoto/ep1.mp4",
+
+		
+    ],
+    estudio: "orudaya",
+    fecha: "2026",
+    tags: ["lolicon", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Un novato se corrompe al unirse a una organización secreta, violando y reprogramando a víctimas de hipnosis, revelando una obsesión oscura."
+},
 ];
 
