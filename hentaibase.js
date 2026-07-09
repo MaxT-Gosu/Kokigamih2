@@ -7522,7 +7522,7 @@ const baseDeDatos = [{
     ],
     estudio: "MS Pictures",
     fecha: "2020",
-    tags: ["Anal", "Oral", "Sin Censurado"],
+    tags: ["Anal", "Oral", "Sin Censura"],
     tipo: "sincensurado",
     descripcion: "Miyagawa Yuki y sus colegas son atrapadas espiando una farmacéutica sospechosa de producir drogas ilegales bajo engaño."
 },
@@ -7550,6 +7550,30 @@ const baseDeDatos = [{
     tags: ["Anal", "Orgias", "Sin Censurado"],
     tipo: "sincensurado",
     descripcion: "En Takumi, la leyenda del Tren de la Suerte de Medianoche requiere una invitada perfecta para obtener un billete y abordar a deshora."
+},
+{
+    id: "H384",
+    titulo: "Nuki Nuki Zupposism",
+    poster: "https://i.ibb.co/N6svhSSV/Nuki-Nuki-Zupposism-1.jpg",
+    bg: [
+        "https://i.ibb.co/JWw4gBXL/vlcsnap-2026-07-09-11h56m23s724.png",
+        "https://i.ibb.co/vv3Sh877/vlcsnap-2026-07-09-11h56m47s072.png",
+		"https://i.ibb.co/MD3C8whh/vlcsnap-2026-07-09-11h57m43s258.png",
+		"https://i.ibb.co/RTxdY2Sy/vlcsnap-2026-07-09-11h58m00s743.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Nuki%20Nuki%20Zupposism/ep1.mp4",
+
+
+
+		
+    ],
+    estudio: "Queen Bee",
+    fecha: "2026",
+    tags: ["Aeago", "Orgias", "Censurado"],
+    tipo: "censurado",
+    descripcion: "En el primer episodio de Nuki Nuki Zupposism, un joven explora el Zupposism, viviendo intensas escapadas sexuales con voluptuosas mujeres, llevando a desbordantes travesuras de harén."
 },
 ];
 
