@@ -6477,13 +6477,13 @@ const baseDeDatos = [{
 {
     id: "H339",
     titulo: "En`yoku",
-    poster: "https://iili.io/BUQjcmB.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/enyoku-1.jpg",
     bg: [
-        "https://iili.io/BUQj1X1.png",
-        "https://iili.io/BUQjELF.png",
-        "https://iili.io/BUQjMqg.png",
-        "https://iili.io/BUQjV1a.png",
-		"https://iili.io/BUQjWrJ.png"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNd3Q6vWSxFDqFBUfuihpZfyS1BdeIrTraofr4Wlb0eqFc_KdLAiRajyc&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSC4bynn3q9wZF_BCA2e9APzMFz32Tmyxyplj85RulnnFFds_-NgXUikaZ&s=10",
+        "https://img4.superporn.com/videos/295/29570/previews/previews_0007.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzc5iuCV-FxD3c6nmYFcjLbm6EiXofjDV1xnydysjoDytQoHc9PSeKSlU&s=10"
+		
 		
 
     ],
@@ -6500,13 +6500,12 @@ const baseDeDatos = [{
 {
     id: "H340",
     titulo: "Shimaizuma",
-    poster: "https://iili.io/BgIQJHP.jpg",
+    poster: "https://i.ibb.co/6JWgXJkK/fleshdance-2-1.jpg",
     bg: [
-        "https://iili.io/BgIQdR1.png",
-        "https://iili.io/BgIQ3Dg.png",
-        "https://iili.io/BgIQKxa.png",
-        "https://iili.io/BgIQfWJ.png",
-		"https://iili.io/BgIQqiv.png"
+        "https://i.ibb.co/PGsdXJvr/vlcsnap-2026-04-18-08h09m58s141.png",
+        "https://i.ibb.co/nqSrX1gz/vlcsnap-2026-04-18-08h10m11s703.png",
+        "https://i.ibb.co/wZd0cjmQ/vlcsnap-2026-04-18-08h10m28s236.png",
+        "https://i.ibb.co/hRyW1tWH/vlcsnap-2026-04-18-08h10m59s399.png"
 		
 
     ],
@@ -6524,13 +6523,12 @@ const baseDeDatos = [{
 {
     id: "H341",
     titulo: "Maro No Kanja Wa Gatenkei",
-    poster: "https://iili.io/BrnBiCu.jpg",
+    poster: "https://i.ibb.co/ycd2XKnB/maro-no-kanja-wa-gatenkei-1-1.jpg",
     bg: [
-        "https://iili.io/BrnCauS.png",
-        "https://iili.io/BrnCIGs.png",
-        "https://iili.io/BrnC58l.png",
-        "https://iili.io/BrnClt9.png",
-		"https://iili.io/BrnCVFj.png"
+        "https://i.ibb.co/rqtwvvh/vlcsnap-2026-04-20-12h00m40s551.png",
+        "https://i.ibb.co/NgsxjfbF/vlcsnap-2026-04-20-12h01m07s240.png",
+        "https://i.ibb.co/zT8wJXfS/vlcsnap-2026-04-20-12h02m11s466.png",
+        "https://i.ibb.co/pvwT2WqY/vlcsnap-2026-04-20-12h02m46s951.png"
 		
 
     ],
@@ -6621,13 +6619,12 @@ const baseDeDatos = [{
 {
     id: "H345",
     titulo: "Mesu Saga",
-    poster: "https://iili.io/B6pKlVf.jpg",
+    poster: "https://i.ibb.co/sBtJ8Xv/mesu-saga-persona-1-1.jpg",
     bg: [
-        "https://iili.io/B6pKGl2.png",
-        "https://iili.io/B6pKEKl.png",
-        "https://iili.io/B6pK0P4.png",
-        "https://iili.io/B6pKMSS.png",
-		"https://iili.io/B6pKWH7.png",
+        "https://i.ibb.co/PGBcRRRx/vlcsnap-2026-04-26-06h38m18s102.png",
+        "https://i.ibb.co/QvV91Hpk/vlcsnap-2026-04-26-06h38m34s752.png",
+        "https://i.ibb.co/chKWDTQ3/vlcsnap-2026-04-26-06h39m06s770.png",
+        "https://i.ibb.co/wN6Dvz9B/vlcsnap-2026-04-26-06h39m25s806.png"
 
 		
 
@@ -6783,12 +6780,12 @@ const baseDeDatos = [{
 {
     id: "H351",
     titulo: "Last Order",
-    poster: "https://iili.io/BsyaM79.jpg",
+    poster: "https://i.ibb.co/Qvt0WxsQ/m-ogui-last-order.jpg",
     bg: [
-        "https://iili.io/BsyaVee.png",
-        "https://iili.io/Bsyahzb.png",
-        "https://iili.io/BsyaWmu.png",
-        "https://iili.io/BsyawLx.png"
+        "https://i.ibb.co/Wp6f9XNZ/vlcsnap-2026-05-01-06h38m05s838.png",
+        "https://i.ibb.co/Y46QV90Z/vlcsnap-2026-05-01-06h38m18s861.png",
+        "https://i.ibb.co/zhBR9NBm/vlcsnap-2026-05-01-06h38m32s423.png",
+        "https://i.ibb.co/HLCWT9q4/vlcsnap-2026-05-01-06h38m52s806.png"
 	
 
     ],
@@ -6806,13 +6803,13 @@ const baseDeDatos = [{
 {
     id: "H352",
     titulo: "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi",
-    poster: "https://iili.io/BLcZnaf.png",
+    poster: "https://i.ibb.co/qL6CD4Ln/Otaku-no-Boku-ga-Ichigun-Gal-to-Tsukiaerumade-no-Hanashi-Episode-1.png",
     bg: [
-        "https://iili.io/BLcZq4s.png",
-        "https://iili.io/BLcZfGn.png",
-        "https://iili.io/BLcZKCX.png",
-        "https://iili.io/BLcZov4.png",
-		"https://iili.io/BLcZxyl.png"
+        "https://i.ibb.co/gMhs3F2h/vlcsnap-2026-05-02-07h11m00s633.png",
+        "https://i.ibb.co/1YQXKFyw/vlcsnap-2026-05-02-07h11m19s845.png",
+        "https://i.ibb.co/99yDZYG8/vlcsnap-2026-05-02-07h11m29s222.png",
+        "https://i.ibb.co/PZfKqXTj/vlcsnap-2026-05-02-07h11m42s751.png"
+		
 	
 
     ],
@@ -7215,14 +7212,13 @@ const baseDeDatos = [{
 {
     id: "H369",
     titulo: "Cartagra Tsuki Gurui no Yamai",
-    poster: "https://iili.io/CFI3Obt.jpg",
+    poster: "https://i.ibb.co/4ZL8HDBP/cartagra-1-e-Cs-LO.jpg",
     bg: [
-        "https://iili.io/CFI38ss.png",
-        "https://iili.io/CFI3kzX.png",
-        "https://iili.io/CFI3vXn.png",
-        "https://iili.io/CFI3UqG.png",
-		"https://iili.io/CFI3g1f.png",
-		"https://iili.io/CFI3rg4.png"
+        "https://i.ibb.co/Df7jbc72/vlcsnap-2026-06-01-16h56m43s682.png",
+        "https://i.ibb.co/mV4TcLV1/vlcsnap-2026-06-01-16h57m03s880.png",
+        "https://i.ibb.co/7Jq2zTJV/vlcsnap-2026-06-01-16h58m21s904.png",
+        "https://i.ibb.co/TqW3hfNw/vlcsnap-2026-06-01-16h58m54s617.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/83b043f588a26fc7cbb6ac6e4e576b432afc72f8a6dfc346763b671295ef925a/ep1.mp4",
@@ -7633,6 +7629,38 @@ const baseDeDatos = [{
     tags: ["Corridas", "Escolares", "Censurado"],
     tipo: "censurado",
     descripcion: "Amane, frustrada por su casto novio, sucumbe al deseo y enfrenta la amenaza del casero que grava sus acciones."
+},
+{
+    id: "H388",
+    titulo: "Enjo Kouhai",
+    poster: "https://veohentai.com/wp-content/uploads/2026/07/Enjo-Kouhai-11.jpg",
+    bg: [
+        "https://veohentai.com/wp-content/uploads/2026/07/407017h.jpg",
+        "https://veohentai.com/wp-content/uploads/2024/10/96550h.jpg",
+		"https://veohentai.com/wp-content/uploads/2022/08/enjo-kouhai-6-pv1.png",
+		"https://veohentai.com/wp-content/uploads/2022/08/enjo-kouhai-5-pv2.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep2.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep3.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep4.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep5.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep6.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep7.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep8.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep9.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep10.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Enjo%20Kouhai/ep11.mp4"
+
+		
+    ],
+    estudio: "Majin Petit",
+    fecha: "2026",
+    tags: ["Vanilla", "Romance", "Censurado"],
+    tipo: "censurado",
+    descripcion: "El gobierno interviene ante la baja natalidad, asignando parejas para concebir; un profesor recibe a su alumna, la princesa elfa Iris."
 },
 ];
 
