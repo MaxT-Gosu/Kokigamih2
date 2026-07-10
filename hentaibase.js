@@ -7610,5 +7610,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Un novato se corrompe al unirse a una organización secreta, violando y reprogramando a víctimas de hipnosis, revelando una obsesión oscura."
 },
+{
+    id: "H387",
+    titulo: "Kanojo ga Separate o Matou Riyuu",
+    poster: "https://i.ibb.co/8DZShyGS/Kanojo-ga-Separate-o-Matou-Riyuu-Episode-1.png",
+    bg: [
+        "https://i.ibb.co/T3Y8m1N/vlcsnap-2026-07-10-10h00m14s692.png",
+        "https://i.ibb.co/dwRNPtPG/vlcsnap-2026-07-10-10h00m35s397.png",
+		"https://i.ibb.co/qLTFQh54/vlcsnap-2026-07-10-10h00m46s168.png",
+		"https://i.ibb.co/WmCgG0n/vlcsnap-2026-07-10-10h00m55s030.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Kanojo%20ga%20Separate%20o%20Matou%20Riyuu/ep1.mp4",
+
+		
+    ],
+    estudio: "ITONAMI",
+    fecha: "2025",
+    tags: ["Corridas", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Amane, frustrada por su casto novio, sucumbe al deseo y enfrenta la amenaza del casero que grava sus acciones."
+},
 ];
 
