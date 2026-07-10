@@ -2325,13 +2325,14 @@ const baseDeDatos = [{
 {
     id: "H120",
     titulo: "Netorareta Bakunyuu Tsuma-tachi",
-    poster: "https://iili.io/qDts0l4.png",
+    poster: "https://i.ibb.co/k61TXcFB/Netorareta-Bakunyuu-2-1.jpg",
     bg: [
-        "https://iili.io/KV87I7p.png",
-        "https://iili.io/KsmeDkQ.png",
-        "https://iili.io/KV87jR9.png",
-        "https://iili.io/KV87wNe.png",
-        "https://iili.io/KV87SKQ.png"
+        "https://i.ibb.co/PvRxhvb3/Netorareta-Bakunyuu-Tsuma-tachi-1.png",
+        "https://i.ibb.co/KjfvrHvB/Netorareta-Bakunyuu-Tsuma-tachi-2.png",
+        "https://i.ibb.co/SwfprgW0/Netorareta-Bakunyuu-Tsuma-tachi-3.png",
+        "https://i.ibb.co/ccdtBktN/Netorareta-Bakunyuu-Tsuma-tachi-4.png"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/1c4aca983e47be6c9acb5fa5e69e1d0fd646fce63183a895ad50e2a656eb6d50/ep1.mp4",
@@ -2346,13 +2347,13 @@ const baseDeDatos = [{
 {
     id: "H121",
     titulo: "Kiken na Mori",
-    poster: "https://iili.io/qmGR0hb.jpg",
+    poster: "https://i.ibb.co/SwyZ18wz/Kiken-na-Mori-2.jpg",
     bg: [
-        "https://iili.io/fTtcLwN.png",
-        "https://iili.io/fTtcRjt.png",
-        "https://iili.io/fTtc5ZX.png",
-        "https://iili.io/fTtcVuS.png",
-        "https://iili.io/fTtcWw7.png"
+        "https://i.ibb.co/zHJmJcWm/Kiken-na-Mori-2.png",
+        "https://i.ibb.co/fGKLCvdH/Kiken-na-Mori-3.png",
+        "https://i.ibb.co/xSB5pwY6/Kiken-na-Mori-4.png",
+        "https://i.ibb.co/jv2QtDCM/Kiken-na-Mori-5.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/bb1589e779e8f5c76d728a8f3cdea19cd240f01c93abcda12b8858b8c51a1457/ep1.mp4",
@@ -2367,13 +2368,14 @@ const baseDeDatos = [{
 {
     id: "H122",
     titulo: "Korette Nani?",
-    poster: "https://iili.io/qplfTPI.jpg",
+    poster: "https://i.ibb.co/yn9TMwCq/Korette-Nani-7.png",
     bg: [
-        "https://iili.io/KX1rv7S.png",
-        "https://iili.io/KX1r8fn.png",
-        "https://iili.io/KX1rkiX.png",
-        "https://iili.io/KX1reVt.png",
-        "https://iili.io/KX1rOxI.png"
+        "https://i.ibb.co/wN02Bh7N/Korette-Nani-2.png",
+        "https://i.ibb.co/gbbGz23v/Korette-Nani-1.png",
+        "https://i.ibb.co/GNwpbGx/Korette-Nani-5.png",
+        "https://i.ibb.co/J695P6t/Korette-Nani-6.png"
+		
+		
     ],
     video: [
         "https://hentaiplayer.com/v/WiA6N8wvdpao9nV/"
@@ -2387,12 +2389,12 @@ const baseDeDatos = [{
 {
     id: "H123",
     titulo: "Sister Breeder",
-    poster: "https://veohentai.com/wp-content/uploads/2025/10/Sister-Breeder-Episode-1.jpg",
+    poster: "https://i.ibb.co/DPTQNVPS/Sister-Breeder-Episode-2.jpg",
     bg: [
-        "https://veohentai.com/wp-content/uploads/2025/10/114598h.jpg",
-        "https://veohentai.com/wp-content/uploads/2025/10/114599h.jpg",
-        "https://veohentai.com/wp-content/uploads/2026/02/166762h.jpg",
-        "https://veohentai.com/wp-content/uploads/2026/03/166763h.jpg"
+        "https://i.ibb.co/v6vVdCLk/vlcsnap-2026-03-03-09h28m19s784.png",
+        "https://i.ibb.co/Dfy5hBqH/vlcsnap-2026-03-03-09h36m18s238.png",
+        "https://i.ibb.co/LhJcxj2H/Sister-Breeder-3.jpg",
+        "https://i.ibb.co/ks8yqV42/Sister-Breeder-15.jpg"
 
     ],
     video: [
