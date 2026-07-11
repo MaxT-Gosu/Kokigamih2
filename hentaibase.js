@@ -7666,5 +7666,71 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "El gobierno interviene ante la baja natalidad, asignando parejas para concebir; un profesor recibe a su alumna, la princesa elfa Iris."
 },
+{
+    id: "H389",
+    titulo: "Daraku Reijou",
+    poster: "https://i.ibb.co/hRL09MPh/daraku-reijou-the-animation-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/Y77nQLTv/vlcsnap-2026-07-11-16h14m44s699.png",
+        "https://i.ibb.co/7LGRP1v/vlcsnap-2026-07-11-16h15m02s521.png",
+		"https://i.ibb.co/yB0MY1nY/vlcsnap-2026-07-11-16h15m17s075.png",
+		"https://i.ibb.co/rRsxs7Jm/vlcsnap-2026-07-11-16h15m46s627.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Daraku%20Reijou/ep1.mp4",
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Violacion", "Netorare", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Basado en el manga doujin de Kemigawa."
+},
+{
+    id: "H389",
+    titulo: "Green Eyes Ane Kyun! Yori",
+    poster: "https://i.ibb.co/JFRbmJV1/130.jpg",
+    bg: [
+        "https://i.ibb.co/vxn6NKpd/vlcsnap-2026-07-11-16h25m50s946.png",
+        "https://i.ibb.co/2YFTY9WY/vlcsnap-2026-07-11-16h26m07s037.png",
+		"https://i.ibb.co/tMrJ7bbn/vlcsnap-2026-07-11-16h26m15s285.png",
+		"https://i.ibb.co/LX1QVYnG/vlcsnap-2026-07-11-16h26m47s202.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Green%20Eyes%20Ane%20Kyun!%20Yori/ep1.mp4",
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Incesto", "Sin Censura"],
+    tipo: "sincensura",
+    descripcion: "Haruto Aizawa siempre ha sentido una gran admiracion por su hermana Aizawa makabe,pero ella lo trata como su sirviente a Haruto no le molesta por que después de todo el siente que es una forma de declarar su amor que siente por ella."
+},
+{
+    id: "H390",
+    titulo: "Sagurare Otome",
+    poster: "https://i.ibb.co/tMRtRJhT/sagurare-otome-y-HNf-B.jpg",
+    bg: [
+        "https://i.ibb.co/xqWGphnH/vlcsnap-2026-07-11-17h09m42s915.png",
+        "https://i.ibb.co/2YFTY9WY/vlcsnap-2026-07-11-16h26m07s037.png",
+		"https://i.ibb.co/M5R2CWjc/vlcsnap-2026-07-11-17h09m50s022.png",
+		"https://i.ibb.co/P0Mp8F7/vlcsnap-2026-07-11-17h10m09s814.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Green%20Eyes%20Ane%20Kyun!%20Yori/ep1.mp4",
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Netorare", "Romance", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Basado en el manga de Mizuhara Yuu."
+},
 ];
 
