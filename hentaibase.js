@@ -7732,5 +7732,28 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Basado en el manga de Mizuhara Yuu."
 },
+{
+    id: "H391",
+    titulo: "Shoujo Tachi no Sadism",
+    poster: "https://i.ibb.co/xS8pcpdy/4110103.jpg",
+    bg: [
+        "https://i.ibb.co/C3FnRg3f/vlcsnap-2026-07-11-18h08m27s550.png",
+        "https://i.ibb.co/bRRr0pF9/vlcsnap-2026-07-11-18h09m14s763.png",
+		"https://i.ibb.co/QvytV7wk/vlcsnap-2026-07-11-18h14m43s833.png",
+		"https://i.ibb.co/V5tB9wJ/vlcsnap-2026-07-11-18h14m59s514.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Shoujo%20Tachi%20no%20Sadism/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Shoujo%20Tachi%20no%20Sadism/ep2.mp4"
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Harem", "Sin censura"],
+    tipo: "sincesura",
+    descripcion: "Un profesor está a cargo del club escolar de ceremonia del té, solo que estas chicas tienen otros planes para divertirse con su sensei mientras agitan y revuelven cosas"
+},
 ];
 
