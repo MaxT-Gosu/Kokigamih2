@@ -4271,12 +4271,12 @@ const baseDeDatos = [{
 {
     id: "H232",
     titulo: "1LDK + JK Ikinari Doukyo??",
-    poster: "https://iili.io/qJSEWMB.jpg",
+    poster: "https://i.ibb.co/Y4y33WbK/1-LDK-JK-Ikinari-Doukyo-1.jpg",
     bg: [
-        "https://iili.io/qJSEvwv.png",
-        "https://iili.io/qJSEN8g.png",
-        "https://iili.io/qJSErPI.png",
-        "https://iili.io/qJSEiSn.png"
+        "https://i.ibb.co/MxZXdWK8/1-LDK-JK-Ikinari-Doukyo-3.png",
+        "https://i.ibb.co/WNvCrBfb/1-LDK-JK-Ikinari-Doukyo-6.png",
+        "hhttps://i.ibb.co/CpL9YsLW/1-LDK-JK-Ikinari-Doukyo-10.png",
+        "https://i.ibb.co/wh9RZqx9/1-LDK-JK-Ikinari-Doukyo-12.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/bf4bcb2f978bcabad3b470a8e7d2890227b1b7d2bf6031d6e385b5cadb5bacad/ep1.mp4",
@@ -4284,7 +4284,11 @@ const baseDeDatos = [{
         "https://www.burstcloud.co/embed/7b24c85fa65ecdc313fc805a2d4f142faa68c0350007c786275c710306ac1fa2/ep3.mp4",
         "https://www.burstcloud.co/embed/721373020c9366f2f673db502c91cb46193a4ed8d89de4acaa116ce67b5da8c6/ep4.mp4",
         "https://www.burstcloud.co/embed/ff9cc8b7d0223f3a5336f0b600678b8353e0c377f4c79b565b15e7e1f86cd170/ep5.mp4",
-        "https://www.burstcloud.co/embed/2e6a498ee876d211767ebb830d45b78bb230deaeea419ad4e285cf489176c2aa/ep6.mp4"
+        "https://www.burstcloud.co/embed/2e6a498ee876d211767ebb830d45b78bb230deaeea419ad4e285cf489176c2aa/ep6.mp4",
+		"https://appcine.b-cdn.net/kokigamih/1LDK%20%2B%20JK%20Ikinari%20Doukyo/ep7.mp4"
+		
+		
+
     ],
     estudio: "Desconocido",
     fecha: "2023",
@@ -4295,12 +4299,12 @@ const baseDeDatos = [{
 {
     id: "H233",
     titulo: "Ajisai no Chiru Koro ni",
-    poster: "https://iili.io/qdBOVHl.png",
+    poster: "https://i.ibb.co/DgpW3DG7/Ajisai-no-Chiru-Koro-ni-5.png",
     bg: [
-        "https://iili.io/qdBOUHQ.png",
-        "https://iili.io/qdBONVe.png",
-        "https://iili.io/qdBOXNS.png",
-        "https://iili.io/qdBOElf.png"
+        "https://i.ibb.co/WWJyBwvT/Ajisai-no-Chiru-Koro-ni-1.png",
+        "https://i.ibb.co/BvYpwYj/Ajisai-no-Chiru-Koro-ni-7.png",
+        "https://i.ibb.co/m567Kkcd/Ajisai-no-Chiru-Koro-ni-10.png",
+        "https://i.ibb.co/W4Q2c0Fk/Ajisai-no-Chiru-Koro-ni-1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/42034b2d12a7798f1ee5d23490c10c132fa75721d4c64594af59450e7a368ff2/ep1.mp4"
@@ -4314,12 +4318,12 @@ const baseDeDatos = [{
 {
     id: "H234",
     titulo: "Ane Jiyoku Tsukushi",
-    poster: "https://iili.io/qdL2W21.jpg",
+    poster: "https://i.ibb.co/99RSg3ky/Ane-Jiyoku-Tsukushi-1.jpg",
     bg: [
-        "https://iili.io/qdL2XYF.png",
-        "https://iili.io/qdL2Ohv.png",
-        "https://iili.io/qdL28EN.png",
-        "https://iili.io/qdL2NTJ.png"
+        "https://i.ibb.co/HfwWKZK3/Ane-Jiyoku-Tsukushi-2.png",
+        "https://i.ibb.co/tP1TV8p9/Ane-Jiyoku-Tsukushi-4.png",
+        "hhttps://i.ibb.co/WWBBywnV/Ane-Jiyoku-Tsukushi-6.png",
+        "https://i.ibb.co/XfZWwDZx/Ane-Jiyoku-Tsukushi-8.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/5dbca138a30737223548787fe6ae9913fedbbdf1fc005d8424106c4982093d22/ep1.mp4",
@@ -4334,12 +4338,12 @@ const baseDeDatos = [{
 {
     id: "H235",
     titulo: "Aisei Tenshi Love Mary",
-    poster: "https://iili.io/q2XU4p9.png",
+    poster: "https://i.ibb.co/LzJfC2bb/Aisei-Tenshi-Love-Mary-1.png",
     bg: [
-        "https://iili.io/q2XUZEx.png",
-        "https://iili.io/q2XgJhg.png",
-        "https://iili.io/q2XUQBj.png",
-        "https://iili.io/q2XUsLb.png"
+        "https://i.ibb.co/gZ5q1G4y/Aisei-Tenshi-Love-Mary-5.png",
+        "https://i.ibb.co/vKQhBzQ/Aisei-Tenshi-Love-Mary-7.png",
+        "https://i.ibb.co/B2LZSLVz/Aisei-Tenshi-Love-Mary-10.png",
+        "https://i.ibb.co/k6S0xKv1/Aisei-Tenshi-Love-Mary-12.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/6224918a4830f906e78ee76080c62b636204258c3f0ba9d8cf5af8918e238c05/ep1.mp4",
