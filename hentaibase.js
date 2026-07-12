@@ -7884,7 +7884,7 @@ const baseDeDatos = [{
     fecha: "2020",
     tags: ["Ninfomana", "Tetonas", "Censurado"],
     tipo: "censurado",
-    descripcion: "¿Por qué hacerlas tan eróticas? Esparciendo sus feromonas al caminar. "Haz lo que quieras" es su eslogan."
+    descripcion: "¿Por qué hacerlas tan eróticas? Esparciendo sus feromonas al caminar. Haz lo que quieras es su eslogan."
 },
 ];
 
