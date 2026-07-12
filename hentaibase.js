@@ -7755,5 +7755,28 @@ const baseDeDatos = [{
     tipo: "sincesura",
     descripcion: "Un profesor está a cargo del club escolar de ceremonia del té, solo que estas chicas tienen otros planes para divertirse con su sensei mientras agitan y revuelven cosas"
 },
+{
+    id: "H392",
+    titulo: "Ikenai Koto",
+    poster: "https://i.ibb.co/Kpt6LDSD/ikenai-koto-the-animation-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/Dfpszx41/vlcsnap-2026-07-11-20h17m03s788.png",
+        "https://i.ibb.co/Fqsfcq7w/vlcsnap-2026-07-11-20h17m16s254.png",
+		"https://i.ibb.co/23J1tTcX/vlcsnap-2026-07-11-20h17m25s112.png",
+		"https://i.ibb.co/GQFTwYd6/vlcsnap-2026-07-11-20h17m19s493.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Ikenai%20Koto/ep1.mp4",
+
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Anal", "Violacion", "Censurado"],
+    tipo: "sensurado",
+    descripcion: "Un profesor está a cargo del club escolar de ceremonia del té, solo que estas chicas tienen otros planes para divertirse con su sensei mientras agitan y revuelven cosas"
+},
 ];
 
