@@ -1841,13 +1841,14 @@ const baseDeDatos = [{
 {
     id: "H97",
     titulo: "Sei Brunehilde Gakuen Shoujo",
-    poster: "https://iili.io/qrfLUcN.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty-1.jpg",
     bg: [
-        "https://iili.io/Fvu0YVf.png",
-        "https://iili.io/Fvu0VBR.png",
-        "https://iili.io/Fvu0EhJ.png",
-        "https://iili.io/Fvu0j2I.png",
-        "https://iili.io/Fvu0NkX.png"
+        "https://veohentai.com/wp-content/uploads/2022/08/sei-brunehilde-gakuen-shoujo-kishidan-to-junpaku-no-panty.jpg",
+        "https://www.hentaigem.com/contents/videos_screenshots/87000/87447/preview.mp4.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTviNAB8UsvIoaUA9iLtR_5mjsgw3kspls6SoeIP4KH6AX1MluCOoqCAjw&s=10",
+        "https://hentaitk.net/wp-content/uploads/2018/01/Beautiful-Sexy-Cartoon-Hentai-Girl-With-Hot-Stockings-Porn-Movie.jpg"
+		
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/eedd1cfb8afa5130ec6892b4cf167d15644132a1dea9e3ddb16e674c3489a943/ep1.mp4"
@@ -6269,13 +6270,12 @@ const baseDeDatos = [{
 {
     id: "H330",
     titulo: "Seikatsu Shidou",
-    poster: "https://iili.io/BV9dXg2.jpg",
+    poster: "https://i.ibb.co/5x8yvknD/seikatsu-shidou-2-Bb-BWT.jpg",
     bg: [
-        "https://iili.io/BV9d8sj.png",
-        "https://iili.io/BV9dg0Q.png",
-        "https://iili.io/BV92dmX.png",
-        "https://iili.io/BV92Ahu.png",
-		"https://iili.io/BV92RLb.png"
+        "https://i.ibb.co/vCRwRsmY/vlcsnap-2026-04-11-07h25m23s512.png",
+        "https://i.ibb.co/MymFFs3T/vlcsnap-2026-04-11-07h25m55s231.png",
+        "https://i.ibb.co/xK6nqpYF/vlcsnap-2026-04-11-07h26m01s402.png",
+        "https://i.ibb.co/KpwScVjf/vlcsnap-2026-04-11-07h37m18s835.png"
 
     ],
     video: [
@@ -6292,13 +6292,13 @@ const baseDeDatos = [{
 {
     id: "H331",
     titulo: "Nosewasure",
-    poster: "https://iili.io/BWoJMej.jpg",
+    poster: "https://i.ibb.co/zHNjNywW/nosewasure-1-xp-XWN.jpg",
     bg: [
-        "https://iili.io/BWo36LQ.png",
-        "https://iili.io/BWo325u.png",
-        "https://iili.io/BWo2yfS.png",
-        "https://iili.io/BWo3T5g.png",
-		"https://iili.io/BWoqcjs.png"
+        "https://i.ibb.co/Gvjsq961/vlcsnap-2026-04-11-19h33m41s062.png",
+        "https://i.ibb.co/KcwC5KSK/vlcsnap-2026-04-11-19h33m57s255.png",
+        "https://i.ibb.co/DPd98YJn/vlcsnap-2026-04-11-19h34m24s435.png",
+        "https://i.ibb.co/bMbq0Hkf/vlcsnap-2026-04-11-19h35m21s745.png"
+		
 
     ],
     video: [
@@ -7818,6 +7818,52 @@ const baseDeDatos = [{
     tags: ["Anal", "Maids", "Sin censura"],
     tipo: "sincesura",
     descripcion: "Basado en el manga Koi Maguwai de Siokonbu (しおこんぶ)."
+},
+{
+    id: "H395",
+    titulo: "Koi Maguwai",
+    poster: "https://i.ibb.co/HLYhMjdc/koi-maguwai-1-1.jpg",
+    bg: [
+        "https://i.ibb.co/ZR2ZnMJd/vlcsnap-2026-07-12-08h34m14s380.png",
+        "https://i.ibb.co/W4zrKbwn/vlcsnap-2026-07-12-08h34m52s617.png",
+		"https://i.ibb.co/JjF0BvZH/vlcsnap-2026-07-12-08h35m23s054.png",
+		"https://i.ibb.co/LzgKsm06/vlcsnap-2026-07-12-08h35m48s541.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Koi%20Maguwai/ep1.mp4",
+
+
+		
+    ],
+    estudio: "Pashmina",
+    fecha: "2024",
+    tags: ["Anal", "Zoofilia", "Sin censura"],
+    tipo: "sincesura",
+    descripcion: "Una misteriosa cortesana llamada Ginko atiende con sus encantos el barrio rojo de Yoshibara."
+},
+{
+    id: "H396",
+    titulo: "Otome Hime",
+    poster: "https://veohentai.com/wp-content/uploads/2022/08/otome-hime-lsscf.jpg",
+    bg: [
+        "https://i.ibb.co/Jjj4hG44/vlcsnap-2026-07-12-12h13m14s076.png",
+        "https://i.ibb.co/Hpxz88yZ/vlcsnap-2026-07-12-12h13m46s181.png",
+		"https://i.ibb.co/TMy2rcdK/vlcsnap-2026-07-12-12h13m56s833.png",
+		"https://i.ibb.co/8DgLBFg6/vlcsnap-2026-07-12-12h14m57s413.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Otome%20Hime/ep1.mp4",
+
+
+		
+    ],
+    estudio: "Pashmina",
+    fecha: "2024",
+    tags: ["Romance", "Tetonas", "Sin censura"],
+    tipo: "sincesura",
+    descripcion: "Una misteriosa cortesana llamada Ginko atiende con sus encantos el barrio rojo de Yoshibara."
 },
 ];
 
