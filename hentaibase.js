@@ -3084,12 +3084,12 @@ const baseDeDatos = [{
 {
     id: "H156",
     titulo: "Stringendo and Accelerendo Ultimatum Sera",
-    poster: "https://iili.io/fFOBiG4.jpg",
+    poster: "https://i.ibb.co/v4WXtqdp/Stringendo-and-Accelerendo-Ultimatum-Sera-6.png",
     bg: [
-        "https://iili.io/fGit3lV.png",
-        "https://iili.io/fGitFUB.png",
-        "https://iili.io/fGitJix.png",
-        "https://iili.io/fGit5JI.png"
+        "https://i.ibb.co/JRyXbrW5/Stringendo-and-Accelerendo-Ultimatum-Sera-3.png",
+        "https://i.ibb.co/Sw5DX5SC/Stringendo-and-Accelerendo-Ultimatum-Sera-2.png",
+        "https://i.ibb.co/SwGTDV6R/Stringendo-and-Accelerendo-Ultimatum-Sera-12.png",
+        "https://i.ibb.co/GQ6Byh7n/Stringendo-and-Accelerendo-Ultimatum-Sera-16.png"
     ],
     video: [
         "https://storage.googleapis.com/h3n/Stringendo%20and%20Accelerendo%20Ultimatum%20Sera/ep1.mp4",
@@ -3105,12 +3105,12 @@ const baseDeDatos = [{
 {
     id: "H157",
     titulo: "Succuba Mist Story",
-    poster: "https://iili.io/fqV4sON.png",
+    poster: "https://i.ibb.co/MxcQ2vjt/Succuba-Mist-Story-1.jpg",
     bg: [
-        "https://iili.io/fMTEd1S.png",
-        "https://iili.io/fMTE9Ll.png",
-        "https://iili.io/fMTEJB2.png",
-        "https://iili.io/fMTE2r7.png"
+        "https://i.ibb.co/pBCpMJDY/Succuba-Mist-Story-2.png",
+        "https://i.ibb.co/rRX4CDBF/Succuba-Mist-Story-4.png",
+        "https://i.ibb.co/DfwMzjR7/Succuba-Mist-Story-7.png",
+        "https://i.ibb.co/39Qh21f0/Succuba-Mist-Story-1.png"
     ],
     video: [
         "https://storage.googleapis.com/h3n/Stringendo%20and%20Accelerendo%20Ultimatum%20Sera/ep1.mp4"
@@ -4134,12 +4134,12 @@ const baseDeDatos = [{
 {
     id: "H225",
     titulo: "Ane Kyun!",
-    poster: "https://iili.io/fmY1SdF.png",
+    poster: "https://i.ibb.co/B20jxXv0/Ane-Kyun-1.jpg",
     bg: [
-        "https://iili.io/fmY1k0P.png",
-        "https://iili.io/fmY1SdF.png",
-        "https://iili.io/fmY1vg1.png",
-        "https://iili.io/fmY1U5g.png"
+        "https://i.ibb.co/yFm7ckZs/Ane-Kyun-3.png",
+        "https://i.ibb.co/8nQ4QZY4/Ane-Kyun-4.png",
+        "https://i.ibb.co/SD69wTxt/Ane-Kyun-1.png",
+        "https://i.ibb.co/yzcsBn9/ane-summer-1.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/87010a96659cdebd3694d5859b09ff3c12afe128311ed7e5d1e979eb7b04416a/ep1.mp4"
@@ -7187,14 +7187,13 @@ const baseDeDatos = [{
 {
     id: "H368",
     titulo: "Jokei Kazoku: Inbou",
-    poster: "https://iili.io/C2bYI0N.jpg",
+    poster: "https://i.ibb.co/Qj3qzFYh/the-immorals-1-1.jpg",
     bg: [
-        "https://iili.io/C2bYAJt.png",
-        "https://iili.io/C2bYR5X.png",
-        "https://iili.io/C2bY7bs.png",
-        "https://iili.io/C2bYcXf.png",
-		"https://iili.io/C2bYTgI.png",
-		"https://iili.io/C2bYls4.png"
+        "https://i.ibb.co/hGBPcV1/vlcsnap-2026-05-29-10h51m51s166.png",
+        "https://i.ibb.co/hRrTTzQ4/vlcsnap-2026-05-29-10h51m57s761.png",
+        "https://i.ibb.co/FQ33640/vlcsnap-2026-05-29-10h52m12s677.png",
+        "https://i.ibb.co/GQQ0DBXb/vlcsnap-2026-05-29-10h52m54s566.png"
+		
     ],
     video: [
         "https://www.burstcloud.co/embed/98cc69a63527d864b15628a3dd63911e1d3a3ef1cc1fcfe0e27807c8a8c86692/ep1.mp4",
@@ -7864,6 +7863,28 @@ const baseDeDatos = [{
     tags: ["Romance", "Tetonas", "Sin censura"],
     tipo: "sincesura",
     descripcion: "Una misteriosa cortesana llamada Ginko atiende con sus encantos el barrio rojo de Yoshibara."
+},
+{
+    id: "H397",
+    titulo: "Madonna Kanjuku Body Collection",
+    poster: "https://i.ibb.co/mC0ZF0h7/madonna-kanjuku-body-collection-1.jpg",
+    bg: [
+        "https://i.ibb.co/KzDLLGmk/vlcsnap-2026-07-12-17h16m15s029.png",
+        "https://i.ibb.co/MDckDNrv/vlcsnap-2026-07-12-17h16m20s687.png",
+		"https://i.ibb.co/1tHS7QbC/vlcsnap-2026-07-12-17h16m26s435.png",
+		"https://i.ibb.co/7myRBGT/vlcsnap-2026-07-12-17h16m38s558.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Madonna%20Kanjuku%20Body%20Collection/EP1.mp4",
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Ninfomana", "Tetonas", "Censurado"],
+    tipo: "censurado",
+    descripcion: "¿Por qué hacerlas tan eróticas? Esparciendo sus feromonas al caminar. "Haz lo que quieras" es su eslogan."
 },
 ];
 
