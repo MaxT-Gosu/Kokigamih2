@@ -6884,16 +6884,12 @@ const baseDeDatos = [{
 {
     id: "H355",
     titulo: "Etsuraku no Tane",
-    poster: "https://iili.io/BZ3RvmQ.jpg",
+    poster: "https://i.ibb.co/0yP4bYcV/etsuraku-no-tane-1-1.jpg",
     bg: [
-        "https://iili.io/BZ3RUhB.png",
-        "https://iili.io/BZ3RgLP.png",
-        "https://iili.io/BZ3RSIV.png",
-        "https://iili.io/BZ3R4B1.png",
-		"https://iili.io/BZ3R6EF.png",
-		"https://iili.io/BZ3RPrg.png",
-		"https://iili.io/BZ3Rs2a.png",
-		"https://iili.io/BQj0U2s.png"	
+        "https://i.ibb.co/7JV1fdGQ/vlcsnap-2026-05-05-17h10m26s335.png",
+        "https://i.ibb.co/5W3SfjG8/vlcsnap-2026-05-05-17h10m46s494.png",
+        "https://i.ibb.co/p6P6K9hM/vlcsnap-2026-05-05-17h10m57s542.png",
+        "https://i.ibb.co/LdwgWNMZ/vlcsnap-2026-05-05-17h11m10s190.png"	
 
     ],
     video: [
@@ -6909,14 +6905,13 @@ const baseDeDatos = [{
 {
     id: "H356",
     titulo: "Kara no Shoujo",
-    poster: "https://iili.io/BZOLYan.jpg",
+    poster: "https://i.ibb.co/rRk065VF/kara-no-shoujo-1-1.jpg",
     bg: [
-        "https://iili.io/BZOL1j4.png",
-        "https://iili.io/BZOL0uf.png",
-        "https://iili.io/BZOLcyG.png",
-        "https://iili.io/BZOLEZl.png",
-		"https://iili.io/BZOLMn2.png",
-		"https://iili.io/BZOLVGS.png"	
+        "https://i.ibb.co/20Y308n9/vlcsnap-2026-05-06-16h50m00s872.png",
+        "https://i.ibb.co/0RqwBrJd/vlcsnap-2026-05-06-16h50m43s819.png",
+        "https://i.ibb.co/LdXTXhh1/vlcsnap-2026-05-06-16h50m53s857.png",
+        "https://i.ibb.co/0j3t0sJ8/vlcsnap-2026-05-06-16h51m10s247.png"
+		
 
     ],
     video: [
@@ -7149,12 +7144,12 @@ const baseDeDatos = [{
 {
     id: "H366",
     titulo: "Kanojo ga Nekomimi ni Kigaetara",
-    poster: "https://iili.io/qfVsTzJ.png",
+    poster: "https://i.ibb.co/GvXnvCxy/kanojo-ga-nekomimi-ni-kigaetara.jpg",
     bg: [
-        "https://iili.io/qfVsAsR.png",
-        "https://iili.io/qfVs1bs.png",
-        "https://iili.io/qfVsGzG.png",
-        "https://iili.io/qfVsMXf.png"
+        "https://i.ibb.co/KpCp6RSs/vlcsnap-2026-02-26-09h51m16s508.png",
+        "https://i.ibb.co/ksRB5DG8/vlcsnap-2026-02-26-09h51m40s914.png",
+        "https://i.ibb.co/qLBvGsQg/vlcsnap-2026-02-26-09h51m58s854.png",
+        "https://i.ibb.co/ynjGpqDM/vlcsnap-2026-02-26-09h52m26s764.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/b9f42bc20445db70d7467118b91d1b78ea26e3d3832fdd132ad8f5533243f856/ep1.mp4",
@@ -7775,8 +7770,54 @@ const baseDeDatos = [{
     estudio: "MS Pictures",
     fecha: "2020",
     tags: ["Anal", "Violacion", "Censurado"],
-    tipo: "sensurado",
+    tipo: "censurado",
     descripcion: "Un profesor está a cargo del club escolar de ceremonia del té, solo que estas chicas tienen otros planes para divertirse con su sensei mientras agitan y revuelven cosas"
+},
+{
+    id: "H393",
+    titulo: "Kowaremono Risa",
+    poster: "https://i.ibb.co/7Jmwz6Lp/kowaremono-risa-cv1.png",
+    bg: [
+        "https://i.ibb.co/v6SSTCdK/vlcsnap-2026-07-11-20h45m21s478.png",
+        "https://i.ibb.co/67r9Vj5t/vlcsnap-2026-07-11-20h45m30s529.png",
+		"https://i.ibb.co/RT6jrTB1/vlcsnap-2026-07-11-20h45m39s950.png",
+		"https://i.ibb.co/6cft1gsw/vlcsnap-2026-07-11-20h46m04s849.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Kowaremono%20Risa/ep1.mp4",
+
+
+		
+    ],
+    estudio: "Bootleg",
+    fecha: "2020",
+    tags: ["Anal", "Violacion", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Risa se escapa de su casa, y la casa de su tío es el único lugar al que puede ir. El tío ha estado solo durante mucho tiempo, y no puede evitar notar lo mucho que su sobrina ha desarrollado"
+},
+{
+    id: "H394",
+    titulo: "Ikoku na Retro",
+    poster: "https://i.ibb.co/Y7PjvthB/ikoku-na-retro-1-IZn-YO.jpg",
+    bg: [
+        "https://i.ibb.co/43nxcLM/vlcsnap-2026-07-12-06h54m38s104.png",
+        "https://i.ibb.co/CpXNGVsr/vlcsnap-2026-07-12-06h55m06s702.png",
+		"https://i.ibb.co/RGYLPfHM/vlcsnap-2026-07-12-06h55m31s186.png",
+		"https://i.ibb.co/PsXQsbnH/vlcsnap-2026-07-12-06h55m59s053.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Ikoku%20na%20Retro/ep1.mp4",
+
+
+		
+    ],
+    estudio: "Pashmina",
+    fecha: "2024",
+    tags: ["Anal", "Maids", "Sin censura"],
+    tipo: "sincesura",
+    descripcion: "Basado en el manga Koi Maguwai de Siokonbu (しおこんぶ)."
 },
 ];
 
