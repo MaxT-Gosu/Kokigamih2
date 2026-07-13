@@ -7908,5 +7908,27 @@ const baseDeDatos = [{
     tipo: "sincensura",
     descripcion: "¿Por qué hacerlas tan eróticas? Esparciendo sus feromonas al caminar. Haz lo que quieras es su eslogan."
 },
+{
+    id: "H399",
+    titulo: "Mokkai Shiyo",
+    poster: "https://i.ibb.co/RG6kfHqz/1565-mokkai-shiyo-1-coverized.jpg",
+    bg: [
+        "https://i.ibb.co/0yC1Wz41/vlcsnap-2026-07-13-16h06m12s479.png",
+        "https://i.ibb.co/r2H57VYB/vlcsnap-2026-07-13-16h06m35s516.png",
+		"https://i.ibb.co/0RPDQB7C/vlcsnap-2026-07-13-16h06m43s178.png",
+		"https://i.ibb.co/Pz6vHNTf/vlcsnap-2026-07-13-16h06m53s453.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Mokkai%20Shiyo/video.mp4",
+
+		
+    ],
+    estudio: "MS Pictures",
+    fecha: "2020",
+    tags: ["Escolares", "Tetonas", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Mei y su senpai tienen varias citas en varios hoteles del amor. Sin embargo, su senpai tiene poco dinero, así que en lugar de ir a un hotel, van a un café manga."
+},
 ];
 
