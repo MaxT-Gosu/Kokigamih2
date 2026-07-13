@@ -7886,5 +7886,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "¿Por qué hacerlas tan eróticas? Esparciendo sus feromonas al caminar. Haz lo que quieras es su eslogan."
 },
+{
+    id: "H398",
+    titulo: "Fechikano!",
+    poster: "https://i.ibb.co/cc5qZhfj/fechikano-1.jpg",
+    bg: [
+        "https://i.ibb.co/9HhhyGS7/vlcsnap-2026-07-13-12h03m54s474.png",
+        "https://i.ibb.co/5hvjf2Rc/vlcsnap-2026-07-13-12h04m11s642.png",
+		"https://i.ibb.co/YTtzVyQz/vlcsnap-2026-07-13-12h04m27s576.png",
+		"https://i.ibb.co/39wPMGK1/vlcsnap-2026-07-13-12h04m49s287.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Fechikano/ep1.mp4",
+
+		
+    ],
+    estudio: "Pashmina",
+    fecha: "2020",
+    tags: ["Romance", "Tetonas", "Sin censura"],
+    tipo: "sincensura",
+    descripcion: "¿Por qué hacerlas tan eróticas? Esparciendo sus feromonas al caminar. Haz lo que quieras es su eslogan."
+},
 ];
 
