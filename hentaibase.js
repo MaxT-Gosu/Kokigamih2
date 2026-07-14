@@ -3286,12 +3286,12 @@ const baseDeDatos = [{
 {
     id: "H166",
     titulo: "Taboo Charming Mother!",
-    poster: "https://iili.io/f0ghGqP.png",
+    poster: "https://i.ibb.co/6JVKhG1k/Taboo-Charming-Mother-2.jpg",
     bg: [
-        "https://iili.io/fVP4ymu.png",
-        "https://iili.io/fVP6ILv.png",
-        "https://iili.io/fVP4m79.png",
-        "https://iili.io/fVP6W42.png"
+        "https://i.ibb.co/spM0rb2x/Taboo-Charming-Mother-1.png",
+        "https://i.ibb.co/60MLvTwW/Taboo-Charming-Mother-2.png",
+        "https://i.ibb.co/fYhRjf27/Taboo-Charming-Mother-3.png",
+        "https://i.ibb.co/9HJy00fM/Taboo-Charming-Mother-5.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/f164d1e1724d34d362b98ed07bf8554f98b73b6004430011ead15bdaf03a3d24/ep1.mp4",
@@ -3310,12 +3310,12 @@ const baseDeDatos = [{
 {
     id: "H167",
     titulo: "Tanetsuke Ojisan to NTR Hitozuma Sex",
-    poster: "https://iili.io/f0QvMSs.png",
+    poster: "https://i.ibb.co/RGVZQB0k/u-Flqe-Bn-IM8s-Eyv4-Ir-JU8d-Uldyu-T.webp",
     bg: [
-        "https://iili.io/fWNpUZX.png",
-        "https://iili.io/fWNprnn.png",
-        "https://iili.io/fWNp4Gs.png",
-        "https://iili.io/fWNpsa4.png"
+        "hhttps://i.ibb.co/sJ5BLM79/7-BFC7-Kfo-Qas-KPe5l450-Xm-VESi-Qi.webp",
+        "https://i.ibb.co/s92rbBvj/9-MK2-Qx-N8732-KO6-HIwu-Y9q0jj-Dpu.webp",
+        "https://i.ibb.co/Hv9K9jF/go-GPEVe8-Vpk-GW81-Zxf-R0-If-VWni0.webp",
+        "https://i.ibb.co/yj08qPd/or-Ytyx-Qb-Z6-Ft-LCXqc-EWLKFONPLW.webp"
     ],
     video: [
         "https://storage.googleapis.com/h3n/Tanetsuke%20Ojisan%20to%20NTR%20Hitozuma%20Sex/ep1.mp4"
@@ -7929,6 +7929,28 @@ const baseDeDatos = [{
     tags: ["Escolares", "Tetonas", "Censurado"],
     tipo: "censurado",
     descripcion: "Mei y su senpai tienen varias citas en varios hoteles del amor. Sin embargo, su senpai tiene poco dinero, así que en lugar de ir a un hotel, van a un café manga."
+},
+{
+    id: "H400",
+    titulo: "Hamehara: Sore Sekuhara Desu!",
+    poster: "https://i.ibb.co/v69WKZ8X/Hamehara-Sore-Sekuhara-Desu-1.jpg",
+    bg: [
+        "https://i.ibb.co/S4ZyYHHx/vlcsnap-2026-07-14-10h19m08s538.png",
+        "https://i.ibb.co/dXK3CFp/vlcsnap-2026-07-14-10h19m17s150.png",
+		"https://i.ibb.co/G4NDBZDk/vlcsnap-2026-07-14-10h19m26s252.png",
+		"https://i.ibb.co/j9xM1xGd/vlcsnap-2026-07-14-10h19m31s354.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Hamehara%3A%20Sore%20Sekuhara%20Desu!/ep1.mp4",
+
+		
+    ],
+    estudio: "nur",
+    fecha: "2026",
+    tags: ["Corridas", "Tetonas", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Ayaka, responsable de cumplimiento, es sorprendida por Yuya en un entrenamiento de acoso sexual."
 },
 ];
 
