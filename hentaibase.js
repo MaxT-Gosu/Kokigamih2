@@ -6988,6 +6988,7 @@ const baseDeDatos = [{
     ],
     video: [
         "https://www.burstcloud.co/embed/3768f49a7cb460add4f311f2cd06f909e0a377990a1ef2b17bd6a38e63e45ba2/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Todo%20no%20Tsumari/ep2.mp4"
 
 
     ],
@@ -7951,6 +7952,51 @@ const baseDeDatos = [{
     tags: ["Corridas", "Tetonas", "Censurado"],
     tipo: "censurado",
     descripcion: "Ayaka, responsable de cumplimiento, es sorprendida por Yuya en un entrenamiento de acoso sexual."
+},
+{
+    id: "H401",
+    titulo: "Kare no Shiranai Himitsu o Irete.",
+    poster: "https://i.ibb.co/Q36gNF6p/Kare-no-Shiranai-Himitsu-o-Irete-The-Animation-1.jpg",
+    bg: [
+        "https://i.ibb.co/G4h1v2nt/vlcsnap-2026-07-16-15h10m58s356.png",
+        "https://i.ibb.co/39q7qKnW/vlcsnap-2026-07-16-15h11m05s226.png",
+		"https://i.ibb.co/7JjhQ46c/vlcsnap-2026-07-16-15h11m10s341.png",
+		"https://i.ibb.co/h1sJnYfs/vlcsnap-2026-07-16-15h11m21s651.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Kare%20no%20Shiranai%20Himitsu%20o%20Irete./ep1.mp4",
+
+		
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Una joven oculta deseos prohibidos en su relación, generando encuentros sexuales y tensión intensa."
+},
+{
+    id: "H402",
+    titulo: "Onaji Semi no Someya-san ga Sexy Joyū datta Hanashi",
+    poster: "https://i.ibb.co/QFrWRm9V/images.jpg",
+    bg: [
+        "https://i.ibb.co/CgXTzxH/vlcsnap-2026-07-19-06h47m31s337.png",
+        "https://i.ibb.co/qLSXsMTh/vlcsnap-2026-07-19-06h47m40s283.png",
+		"https://i.ibb.co/BMCHzPX/vlcsnap-2026-07-19-06h48m16s115.png",
+		"https://i.ibb.co/8gx4J8T4/vlcsnap-2026-07-19-06h48m28s181.png"
+
+    ],
+    video: [
+        "https://appcine.b-cdn.net/kokigamih/Onaji%20Zemi%20no%20Someya-san%20ga%20Sexy%20Joyuu%20Datta%20Hanashi/ep1.mp4",
+		"https://appcine.b-cdn.net/kokigamih/Onaji%20Zemi%20no%20Someya-san%20ga%20Sexy%20Joyuu%20Datta%20Hanashi/ep2.mp4"
+
+		
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Ryousuke descubre que Ruuka es actriz de un video y le propone sexo a cambio de silencio."
 },
 ];
 
