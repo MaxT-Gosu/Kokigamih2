@@ -7987,10 +7987,11 @@ const baseDeDatos = [{
 
     ],
     video: [
-        "https://appcine.b-cdn.net/kokigamih/Onaji%20Zemi%20no%20Someya-san%20ga%20Sexy%20Joyuu%20Datta%20Hanashi/ep1.mp4",
-		"https://appcine.b-cdn.net/kokigamih/Onaji%20Zemi%20no%20Someya-san%20ga%20Sexy%20Joyuu%20Datta%20Hanashi/ep2.mp4",
-		"https://appcine.b-cdn.net/kokigamih/Onaji%20Zemi%20no%20Someya-san%20ga%20Sexy%20Joyuu%20Datta%20Hanashi/ep3.mp4"
-
+        "https://www.burstcloud.co/embed/0cff71a3449dd037cb1c60471fc257c337d57edcf973904bdfe57067160b228b/ep1.mp4",
+		"https://www.burstcloud.co/embed/a0a97ad3014e0d903594afc895820d06088d6b7e884980c45c7965c531a1666b/ep2.mp4",
+		"https://www.burstcloud.co/embed/55b6f29ce40b931f87f2d69d0f2808f1a702570c32683ec72ba04bfa5515da74/ep3.mp4",
+		"https://www.burstcloud.co/embed/1f701b1fb81300230b7f4312a0baa96acf60beb969d11032b230bab2d7e8988d/ep4.mp4"
+		
 		
     ],
     estudio: "Pink Pineapple",
@@ -7999,5 +8000,6 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Ryousuke descubre que Ruuka es actriz de un video y le propone sexo a cambio de silencio."
 },
+
 ];
 
