@@ -8000,6 +8000,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Ryousuke descubre que Ruuka es actriz de un video y le propone sexo a cambio de silencio."
 },
+{
+    id: "H403",
+    titulo: "Inaka ni wa Kore kurai shika Goraku ga Nai",
+    poster: "https://i.ibb.co/ycBt2vDQ/Inaka-ni-wa-Kore-kurai-shika-Goraku-ga-Nai-2.jpg",
+    bg: [
+        "https://i.ibb.co/35CkGQ9g/vlcsnap-2026-08-06-10h56m50s322.png",
+        "https://i.ibb.co/B53Szg8J/vlcsnap-2026-08-06-10h56m54s551.png",
+		"https://i.ibb.co/xSXp2YDz/vlcsnap-2026-08-06-10h57m19s141.png",
+		"https://i.ibb.co/7tPrG6Jn/vlcsnap-2026-08-06-10h57m26s174.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/e09b0d6cb915d5818bef65bfb1ffb93835916cbf161ce087bddcbeab7a9258a9/ep1.mp4",
+		"https://www.burstcloud.co/embed/e4961850f061ed983ada6bcc98db7bf3dfbe4b4164df3d61c194e4a919a08e13/ep2.mp4"
+		
+		
+    ],
+    estudio: "T-Rex",
+    fecha: "2026",
+    tags: ["Corridas", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "En el episodio 2, el tutor sigue con sus clases especiales mientras Saya y Akiho exploran su sexualidad en un trío apasionado, compitiendo y disfrutando de sus deseos."
+},
 
 ];
 
