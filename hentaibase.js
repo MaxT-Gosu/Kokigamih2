@@ -7546,14 +7546,15 @@ const baseDeDatos = [{
     titulo: "Nuki Nuki Zupposism",
     poster: "https://i.ibb.co/N6svhSSV/Nuki-Nuki-Zupposism-1.jpg",
     bg: [
-        "https://i.ibb.co/JWw4gBXL/vlcsnap-2026-07-09-11h56m23s724.png",
-        "https://i.ibb.co/vv3Sh877/vlcsnap-2026-07-09-11h56m47s072.png",
-		"https://i.ibb.co/MD3C8whh/vlcsnap-2026-07-09-11h57m43s258.png",
-		"https://i.ibb.co/RTxdY2Sy/vlcsnap-2026-07-09-11h58m00s743.png"
+        "https://i.ibb.co/Df29wMZN/vlcsnap-2026-08-10-07h17m00s746.png",
+        "https://i.ibb.co/XrBsRmN9/vlcsnap-2026-08-10-07h17m15s282.png",
+		"https://i.ibb.co/Xfh0JFbd/vlcsnap-2026-08-10-07h17m20s264.png",
+		"https://i.ibb.co/ymYVT7Kw/vlcsnap-2026-08-10-07h17m47s192.png"
 
     ],
     video: [
         "https://appcine.b-cdn.net/kokigamih/Nuki%20Nuki%20Zupposism/ep1.mp4",
+		"https://www.burstcloud.co/embed/42741b4680bbe21b1da28613a8ae11051de2c2b12c0fd72f53b7a3559943fb3a/ep2.mp4"
 
 		
     ],
