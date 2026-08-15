@@ -8024,6 +8024,27 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "En el episodio 2, el tutor sigue con sus clases especiales mientras Saya y Akiho exploran su sexualidad en un trío apasionado, compitiendo y disfrutando de sus deseos."
 },
+{
+    id: "H404",
+    titulo: "Harem-jima e Youkoso!",
+    poster: "https://i.ibb.co/Y4NZcFNN/Harem-jima-e-Youkoso-Episode-1.jpg",
+    bg: [
+        "https://i.ibb.co/MkqqHD1P/vlcsnap-2026-08-15-12h26m17s269.png",
+        "https://i.ibb.co/WNYkWQdH/vlcsnap-2026-08-15-12h26m28s138.png",
+		"https://i.ibb.co/wZHRT5c7/vlcsnap-2026-08-15-12h26m55s170.png",
+		"https://i.ibb.co/4gPqNCYH/vlcsnap-2026-08-15-12h27m03s503.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/569641892009334a91308199cfd0be909eb30dd06efdac2a54dcd1ff18cfd219/ep1.mp4",
+		
+    ],
+    estudio: "Collaboration Works",
+    fecha: "2026",
+    tags: ["Ahegao", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Cuatro amigas llegan a la Isla Haremun, deben revitalizarla para regresar a casa, pero experimentan encuentros apasionados con sus residentes."
+},
 
 ];
 
