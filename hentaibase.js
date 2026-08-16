@@ -6326,6 +6326,7 @@ const baseDeDatos = [{
     ],
     video: [
         "https://www.burstcloud.co/embed/ee58982135dbc8dc788811d919c9428496b2081bf9fd3b94e88443b63dd859dc/ep1.mp4",
+		"https://www.burstcloud.co/embed/28f7763fe69a0791ae7a571c656ecd5a291b7d83119d3e06c433fa502d612495/ep2.mp4"
 
     ],
     estudio: "Magin Label",
