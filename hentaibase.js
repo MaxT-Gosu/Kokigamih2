@@ -8046,6 +8046,29 @@ const baseDeDatos = [{
     tipo: "censurado",
     descripcion: "Cuatro amigas llegan a la Isla Haremun, deben revitalizarla para regresar a casa, pero experimentan encuentros apasionados con sus residentes."
 },
+{
+    id: "H405",
+    titulo: "Deco x Deco",
+    poster: "https://i.ibb.co/qMwTbhJN/Deco-x-Deco-The-Animation-Episode-2.jpg",
+    bg: [
+        "https://i.ibb.co/VcrPnxj2/vlcsnap-2026-08-19-12h36m15s197.png",
+        "https://i.ibb.co/PZWqL1W0/vlcsnap-2026-08-19-12h36m34s671.png",
+		"https://i.ibb.co/JF5qNnPz/vlcsnap-2026-08-19-12h36m52s869.png",
+		"https://i.ibb.co/wN5bPvtd/vlcsnap-2026-08-19-12h37m07s116.png",
+		"https://i.ibb.co/7dDJS2y0/vlcsnap-2026-08-19-12h37m00s414.png"
+
+    ],
+    video: [
+        "https://www.burstcloud.co/embed/f7bff08ee4a9fe557445e6d1531be0181301c99d4af77d2c26a0684ef68cc50f/ep1.mp4",
+		"https://www.burstcloud.co/embed/9a2723b72aa4b81a68fc004108c5ed2c027d511fae6d9e26207c1431528f5725/ep2.mp4"
+		
+    ],
+    estudio: "Pink Pineapple",
+    fecha: "2026",
+    tags: ["Anal", "Escolares", "Censurado"],
+    tipo: "censurado",
+    descripcion: "Miyo, una chica hermosa, despierta la atención de todos, pero solo su amigo Atsuki conoce su lado pervertido. Compiten en un juego erótico que desafía límites constantemente."
+},
 
 ];
 
