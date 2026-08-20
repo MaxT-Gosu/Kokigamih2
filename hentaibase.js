@@ -1817,12 +1817,12 @@ const baseDeDatos = [{
 {
     id: "H96",
     titulo: "Shoujo Ramune",
-    poster: "https://iili.io/qSPFdEN.jpg",
+    poster: "https://veohentai.com/wp-content/uploads/2026/08/Shoujo-Ramune-Episode-7.jpg",
     bg: [
-        "https://iili.io/FkmiI3u.jpg",
-        "https://iili.io/Fkmiuvj.png",
-        "https://iili.io/Fkmix4e.jpg",
-        "https://iili.io/Fkmi5TQ.png"
+        "https://i.ibb.co/BYSJ6kL/vlcsnap-2026-08-20-08h07m26s065.png",
+        "https://i.ibb.co/35KzcmKH/vlcsnap-2026-08-20-08h07m33s406.png",
+        "https://i.ibb.co/qY4zwtPL/vlcsnap-2026-08-20-08h07m40s246.png",
+        "https://i.ibb.co/LdhjJRKG/vlcsnap-2026-08-20-08h08m14s939.png"
     ],
     video: [
         "https://www.burstcloud.co/embed/70da24132263a50341bfe8f6e63a4a29ba920d0b9ac32f0c3bcddb47a0d73712/ep1.mp4",
@@ -1830,7 +1830,9 @@ const baseDeDatos = [{
         "https://www.burstcloud.co/embed/50ff22f131927de16848bd777c182f00eb537bb0365a046ab79751112919da3a/ep3.mp4",
         "https://www.burstcloud.co/embed/a7e3d49e884e7e0e782c01fa2b5146f99c96131c2ee38cc059c6ccdf8c0a9847/ep4.mp4",
         "https://www.burstcloud.co/embed/052f5c09e18e6826015353a877caaa4a0226583b0ce97d41143227876364ab37/ep5.mp4",
-        "https://hentaiplayer.com/v/FDMGld7q6MyiqMe/"
+        "https://hentaiplayer.com/v/FDMGld7q6MyiqMe/",
+		"https://www.burstcloud.co/embed/aafc2513f66ed7e43d89bd05f0547f163ce3db0df249dc482960e66cc615df49/ep7.mp4"
+		
     ],
     estudio: "Desconocido",
     fecha: "2026",
