@@ -3010,8 +3010,9 @@ const baseDeDatos = [{
         "https://iili.io/f1kEQXp.png"
     ],
     video: [
-        "https://www.burstcloud.co/embed/bcb20b01605d2e2ed0deb5fb44a13dd5261f9b6ffa22fb3f242846c2c79608c5/ep1.mp4",
-        "https://www.burstcloud.co/embed/622155938dcc2d07578e13029a672c52dc8d731490d98495b25a6b791508c78e/ep2.mp4"
+        "https://www.burstcloud.co/embed/fbc8a7988ef0c6d06b603d3cb6a74eb1f03b51759ac796f98855699a47ad9865/ep1.mp4",
+        "https://www.burstcloud.co/embed/3b202f350e3805119f91e5da0ab8ad8b799edd3790c96a230e2b97091eb5bef8/ep2.mp4",
+		"https://www.burstcloud.co/embed/d937364473972ba0f4db2a3f2abfd19bd444371fb6c54953e1cf0ffe7dc18bd7/ep3.mp4"
     ],
     estudio: "Desconocido",
     fecha: "2026",
@@ -8027,7 +8028,7 @@ const baseDeDatos = [{
 },
 {
     id: "H404",
-    titulo: "Harem-jima e Youkoso!",
+    titulo: "Harem Shima e Youkoso! ",
     poster: "https://i.ibb.co/Y4NZcFNN/Harem-jima-e-Youkoso-Episode-1.jpg",
     bg: [
         "https://i.ibb.co/MkqqHD1P/vlcsnap-2026-08-15-12h26m17s269.png",
